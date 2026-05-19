@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-05-17T20:36:15Z",
+  "generated_at": "2026-05-19T03:02:08Z",
   "prices": {
-    "PlayStation": {
-      "PlayStation™Store USD250 Gift Cards (US)": {
-        "Seagm": 231.25
-      },
-      "PlayStation™Store USD200 Gift Cards (US)": {
-        "Seagm": 185.0
-      },
-      "PlayStation™Store USD150 Gift Cards (US)": {
-        "Seagm": 138.75
-      },
-      "PlayStation™Store USD100 Gift Cards (US)": {
-        "Seagm": 91.5
-      },
-      "PlayStation™Store USD75 Gift Cards (US)": {
-        "Seagm": 68.63
-      },
-      "PlayStation™Store USD50 Gift Cards (US)": {
-        "Seagm": 45.75
-      },
-      "PlayStation™Store USD25 Gift Cards (US)": {
-        "Seagm": 22.88
-      }
-    }
+    "Pokemon Go": {},
+    "RBL": {}
   }
 }
