@@ -1,86 +1,6 @@
 {
-  "generated_at": "2026-05-19T08:56:55Z",
+  "generated_at": "2026-05-19T18:28:56Z",
   "prices": {
-    "Genshin Impact": {
-      "Genshin Impact 1,980 + 260 Crystals (Global)": {
-        "Kinguin": 119.79,
-        "G2A": 28.82,
-        "Codashop": 29.99,
-        "LapakGaming": 29.99
-      },
-      "Genshin Impact 3,280 + 600 Crystals (Global)": {
-        "Codashop": 49.99,
-        "LapakGaming": 49.99
-      }
-    },
-    "RBL": {
-      "Roblox Game Card USD 200 (US)": {
-        "Kinguin": 200.0
-      },
-      "Roblox Game Card USD 100 (US)": {
-        "Kinguin": 100.0
-      },
-      "Roblox Game Card USD 50 (US)": {
-        "Kinguin": 64.81
-      },
-      "Roblox Game Card USD 25 (US)": {
-        "Kinguin": 267.6
-      },
-      "Roblox Game Card USD 10 (US)": {
-        "Kinguin": 9.59,
-        "ItemkuEN": 4.95
-      },
-      "Roblox 10,000 Rbx": {
-        "ItemkuEN": 0.32
-      },
-      "Roblox 1,000 Rbx": {
-        "ItemkuEN": 3.76
-      }
-    },
-    "Wuthering Waves": {
-      "60 Lunites": {
-        "Kinguin": 119.79,
-        "Codashop": 537.36,
-        "LapakGaming": 2.76,
-        "ItemkuEN": 0.79
-      },
-      "300 + 30 Lunites": {
-        "Kinguin": 19.54,
-        "Codashop": 537.36,
-        "LapakGaming": 1.47,
-        "ItemkuEN": 6.46
-      },
-      "1,980 + 260 Lunites": {
-        "Kinguin": 119.79,
-        "ItemkuEN": 38.83
-      },
-      "980 + 110 Lunites": {
-        "ItemkuEN": 19.41
-      },
-      "3,280 + 600 Lunites": {
-        "ItemkuEN": 64.72
-      }
-    },
-    "Spotify": {
-      "Spotify Gift Card USD 10": {
-        "Kinguin": 9.72,
-        "LapakGaming": 10.61
-      },
-      "Spotify Gift Card USD 60": {
-        "LapakGaming": 63.63
-      },
-      "Spotify Gift Card USD 30": {
-        "LapakGaming": 31.82
-      }
-    },
-    "Rewarble": {
-      "Rewarble Gift Cards USD 100 (Global)": {
-        "Kinguin": 112.89
-      },
-      "Rewarble Gift Cards USD 60 (Global)": {
-        "Kinguin": 66.54
-      }
-    },
     "Apple Gift Card": {
       "Apple Gift Card USD 500  (US)": {
         "Seagm": 500.0
@@ -216,7 +136,7 @@
     },
     "MyCard": {
       "MyCard 30 Points (TW)": {
-        "Seagm": 7.33,
+        "Seagm": 20.83,
         "Codashop": 47.73,
         "LapakGaming": 1.47
       },
@@ -226,6 +146,26 @@
       },
       "MyCard 90 Points (TW)": {
         "LapakGaming": 246.08
+      }
+    },
+    "Genshin Impact": {
+      "Genshin Impact 3,280 + 600 Crystals (Global)": {
+        "Codashop": 49.99,
+        "LapakGaming": 49.99
+      },
+      "Genshin Impact 1,980 + 260 Crystals (Global)": {
+        "Codashop": 29.99,
+        "LapakGaming": 29.99
+      }
+    },
+    "Wuthering Waves": {
+      "60 Lunites": {
+        "Codashop": 38.75,
+        "LapakGaming": 2.76
+      },
+      "300 + 30 Lunites": {
+        "Codashop": 47.73,
+        "LapakGaming": 1.47
       }
     },
     "GASH": {
@@ -245,6 +185,17 @@
     "Valorant": {
       "Valorant 475 Points (Global)": {
         "LapakGaming": 246.08
+      }
+    },
+    "Spotify": {
+      "Spotify Gift Card USD 60": {
+        "LapakGaming": 63.63
+      },
+      "Spotify Gift Card USD 30": {
+        "LapakGaming": 31.82
+      },
+      "Spotify Gift Card USD 10": {
+        "LapakGaming": 10.61
       }
     },
     "Razer Gold": {
