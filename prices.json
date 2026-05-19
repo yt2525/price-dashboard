@@ -1,7 +1,228 @@
 {
-  "generated_at": "2026-05-19T03:02:08Z",
+  "generated_at": "2026-05-19T07:06:40Z",
   "prices": {
-    "Pokemon Go": {},
-    "RBL": {}
+    "Genshin Impact": {
+      "Genshin Impact 3,280 + 600 Crystals (Global)": {
+        "G2G": 500.0,
+        "LapakGaming": 49.99
+      },
+      "Genshin Impact 1,980 + 260 Crystals (Global)": {
+        "LapakGaming": 29.99
+      }
+    },
+    "Valorant": {
+      "Valorant 475 Points (Global)": {
+        "G2G": 286.39,
+        "LapakGaming": 246.08
+      }
+    },
+    "Apple Gift Card": {
+      "Apple Gift Card USD 500  (US)": {
+        "Seagm": 500.0
+      },
+      "Apple Gift Card USD 400  (US)": {
+        "Seagm": 400.0
+      },
+      "Apple Gift Card USD 300  (US)": {
+        "Seagm": 300.0
+      },
+      "Apple Gift Card USD 200  (US)": {
+        "Seagm": 200.0
+      },
+      "Apple Gift Card USD 150  (US)": {
+        "Seagm": 150.0
+      },
+      "Apple Gift Card USD 100  (US)": {
+        "Seagm": 100.0
+      },
+      "Apple Gift Card USD 50  (US)": {
+        "Seagm": 50.0
+      },
+      "Apple Gift Card USD 40 (US)": {
+        "Seagm": 40.0
+      },
+      "Apple Gift Card USD 30  (US)": {
+        "Seagm": 30.0
+      },
+      "Apple Gift Card USD 25  (US)": {
+        "Seagm": 25.0
+      },
+      "Apple Gift Card USD 20  (US)": {
+        "Seagm": 20.0
+      },
+      "Apple Gift Card USD 15 (US)": {
+        "Seagm": 15.0
+      },
+      "Apple Gift Card USD 10  (US)": {
+        "Seagm": 10.0
+      },
+      "Apple Gift Card USD 5  (US)": {
+        "Seagm": 5.0
+      }
+    },
+    "PlayStation": {
+      "PlayStation™Store USD250 Gift Cards (US)": {
+        "Seagm": 250.0,
+        "LapakGaming": 238.71
+      },
+      "PlayStation™Store USD200 Gift Cards (US)": {
+        "Seagm": 200.0,
+        "LapakGaming": 190.96
+      },
+      "PlayStation™Store USD150 Gift Cards (US)": {
+        "Seagm": 150.0,
+        "LapakGaming": 143.22
+      },
+      "PlayStation™Store USD100 Gift Cards (US)": {
+        "Seagm": 100.0,
+        "LapakGaming": 95.48
+      },
+      "PlayStation™Store USD75 Gift Cards (US)": {
+        "Seagm": 75.0,
+        "LapakGaming": 71.61
+      },
+      "PlayStation™Store USD50 Gift Cards (US)": {
+        "Seagm": 50.0,
+        "LapakGaming": 47.74
+      },
+      "PlayStation™Store USD25 Gift Cards (US)": {
+        "Seagm": 25.0,
+        "LapakGaming": 23.88
+      },
+      "PlayStation™Store GBP 20 Gift Cards (UK)": {
+        "Seagm": 20.0
+      },
+      "PlayStation™Store USD 200 Gift Cards (AE)": {
+        "Seagm": 200.0,
+        "LapakGaming": 190.96
+      },
+      "PlayStation™Store USD 100 Gift Cards (AE)": {
+        "Seagm": 100.0,
+        "LapakGaming": 95.48
+      },
+      "PlayStation™Store USD 50 Gift Cards (AE)": {
+        "Seagm": 50.0,
+        "LapakGaming": 47.74
+      },
+      "PlayStation™Store USD 200 Gift Cards (QA)": {
+        "Seagm": 200.0,
+        "LapakGaming": 190.96
+      },
+      "PlayStation™Store USD 100 Gift Cards (QA)": {
+        "Seagm": 100.0,
+        "LapakGaming": 95.48
+      },
+      "PlayStation™Store USD 50 Gift Cards (QA)": {
+        "Seagm": 50.0,
+        "LapakGaming": 47.74
+      }
+    },
+    "Wuthering Waves": {
+      "60 Lunites": {
+        "Codashop": 38.75,
+        "LapakGaming": 2.76,
+        "ItemkuEN": 0.79
+      },
+      "300 + 30 Lunites": {
+        "Codashop": 18.18,
+        "LapakGaming": 1.47,
+        "ItemkuEN": 6.46
+      },
+      "980 + 110 Lunites": {
+        "ItemkuEN": 19.41
+      },
+      "1,980 + 260 Lunites": {
+        "ItemkuEN": 38.83
+      },
+      "3,280 + 600 Lunites": {
+        "ItemkuEN": 64.72
+      }
+    },
+    "MyCard": {
+      "MyCard 30 Points (TW)": {
+        "Codashop": 18.18,
+        "LapakGaming": 1.47
+      },
+      "MyCard 90 Points (TW)": {
+        "LapakGaming": 246.08
+      },
+      "MyCard 50 Points (TW)": {
+        "LapakGaming": 0.54
+      }
+    },
+    "Spotify": {
+      "Spotify Gift Card USD 60": {
+        "LapakGaming": 63.63
+      },
+      "Spotify Gift Card USD 30": {
+        "LapakGaming": 31.82
+      },
+      "Spotify Gift Card USD 10": {
+        "LapakGaming": 10.61
+      }
+    },
+    "GASH": {
+      "GASH 5000 Points (TW)": {
+        "LapakGaming": 1.99
+      },
+      "GASH 3000 Points (TW)": {
+        "LapakGaming": 1.99
+      },
+      "GASH 1000 Points (TW)": {
+        "LapakGaming": 1.99
+      }
+    },
+    "Razer Gold": {
+      "Razer Gold USD500 (US)": {
+        "LapakGaming": 505.21
+      },
+      "Razer Gold USD400 (US)": {
+        "LapakGaming": 404.17
+      },
+      "Razer Gold USD300 (US)": {
+        "LapakGaming": 303.12
+      },
+      "Razer Gold USD200 (US)": {
+        "LapakGaming": 202.08
+      },
+      "Razer Gold USD100 (US)": {
+        "LapakGaming": 101.04
+      },
+      "Razer Gold USD50 (US)": {
+        "LapakGaming": 50.52
+      },
+      "Razer Gold USD25 (US)": {
+        "LapakGaming": 25.26
+      },
+      "Razer Gold USD20 (US)": {
+        "LapakGaming": 20.21
+      },
+      "Razer Gold USD10 (US)": {
+        "LapakGaming": 10.11
+      },
+      "Razer Gold USD5 (US)": {
+        "LapakGaming": 5.05
+      },
+      "Razer Gold USD 500 (Global)": {
+        "LapakGaming": 505.21
+      },
+      "Razer Gold USD 200 (Global)": {
+        "LapakGaming": 202.08
+      },
+      "Razer Gold USD 100 (Global)": {
+        "LapakGaming": 101.04
+      }
+    },
+    "RBL": {
+      "Roblox Game Card USD 10 (US)": {
+        "ItemkuEN": 4.95
+      },
+      "Roblox 10,000 Rbx": {
+        "ItemkuEN": 0.32
+      },
+      "Roblox 1,000 Rbx": {
+        "ItemkuEN": 3.76
+      }
+    }
   }
 }
