@@ -1,41 +1,147 @@
 {
-  "generated_at": "2026-05-20T07:11:45Z",
+  "generated_at": "2026-05-20T07:41:46Z",
   "prices": {
+    "Apple Gift Card": {
+      "Apple Gift Card USD 500  (US)": {
+        "Seagm": 485.0
+      },
+      "Apple Gift Card USD 400  (US)": {
+        "Seagm": 388.0
+      },
+      "Apple Gift Card USD 300  (US)": {
+        "Seagm": 291.0
+      },
+      "Apple Gift Card USD 200  (US)": {
+        "Seagm": 194.0
+      },
+      "Apple Gift Card USD 150  (US)": {
+        "Seagm": 145.5
+      },
+      "Apple Gift Card USD 100  (US)": {
+        "Seagm": 97.0
+      },
+      "Apple Gift Card USD 50  (US)": {
+        "Seagm": 48.5
+      },
+      "Apple Gift Card USD 40 (US)": {
+        "Seagm": 38.8
+      },
+      "Apple Gift Card USD 30  (US)": {
+        "Seagm": 29.1
+      },
+      "Apple Gift Card USD 25  (US)": {
+        "Seagm": 24.25
+      },
+      "Apple Gift Card USD 20  (US)": {
+        "Seagm": 19.4
+      },
+      "Apple Gift Card USD 15 (US)": {
+        "Seagm": 14.55
+      },
+      "Apple Gift Card USD 10  (US)": {
+        "Seagm": 9.7
+      },
+      "Apple Gift Card USD 5  (US)": {
+        "Seagm": 4.85
+      }
+    },
+    "Razer Gold": {
+      "Razer Gold USD100 (US)": {
+        "Seagm": 100.0
+      },
+      "Razer Gold USD50 (US)": {
+        "Seagm": 50.0
+      },
+      "Razer Gold USD20 (US)": {
+        "Seagm": 20.0
+      },
+      "Razer Gold USD10 (US)": {
+        "Seagm": 10.0
+      },
+      "Razer Gold USD5 (US)": {
+        "Seagm": 5.0
+      },
+      "Razer Gold USD 100 (Global)": {
+        "Seagm": 100.0
+      }
+    },
     "PlayStation": {
+      "PlayStation™Store USD250 Gift Cards (US)": {
+        "Seagm": 231.25
+      },
+      "PlayStation™Store USD200 Gift Cards (US)": {
+        "Seagm": 185.0
+      },
+      "PlayStation™Store USD150 Gift Cards (US)": {
+        "Seagm": 138.75
+      },
       "PlayStation™Store USD100 Gift Cards (US)": {
+        "Seagm": 91.5,
         "Codashop": 100.0
       },
       "PlayStation™Store USD75 Gift Cards (US)": {
+        "Seagm": 68.63,
         "Codashop": 75.0
       },
       "PlayStation™Store USD50 Gift Cards (US)": {
+        "Seagm": 45.75,
         "Codashop": 50.0
       },
       "PlayStation™Store USD25 Gift Cards (US)": {
+        "Seagm": 22.88,
         "Codashop": 25.0
       },
       "PlayStation™Store GBP 100 Gift Cards (UK)": {
+        "Seagm": 91.5,
         "Codashop": 100.0
       },
       "PlayStation™Store GBP 50 Gift Cards (UK)": {
+        "Seagm": 45.75,
         "Codashop": 50.0
       },
+      "PlayStation™Store GBP 20 Gift Cards (UK)": {
+        "Seagm": 21.32
+      },
+      "PlayStation™Store USD 200 Gift Cards (AE)": {
+        "Seagm": 185.0
+      },
       "PlayStation™Store USD 100 Gift Cards (AE)": {
+        "Seagm": 91.5,
         "Codashop": 100.0
       },
       "PlayStation™Store USD 50 Gift Cards (AE)": {
+        "Seagm": 45.75,
         "Codashop": 50.0
       },
+      "PlayStation™Store MYR 200 Gift Cards (MY)": {
+        "Seagm": 185.0
+      },
       "PlayStation™Store MYR 100 Gift Cards (MY)": {
+        "Seagm": 91.5,
         "Codashop": 100.0
       },
       "PlayStation™Store MYR 50 Gift Cards (MY)": {
+        "Seagm": 45.75,
         "Codashop": 50.0
       },
+      "PlayStation™Store EUR 250 Gift Cards (DE)": {
+        "Seagm": 231.25
+      },
+      "PlayStation™Store EUR 200 Gift Cards (DE)": {
+        "Seagm": 185.0
+      },
+      "PlayStation™Store EUR 150 Gift Cards (DE)": {
+        "Seagm": 138.75
+      },
+      "PlayStation™Store USD 200 Gift Cards (QA)": {
+        "Seagm": 185.0
+      },
       "PlayStation™Store USD 100 Gift Cards (QA)": {
+        "Seagm": 91.5,
         "Codashop": 100.0
       },
       "PlayStation™Store USD 50 Gift Cards (QA)": {
+        "Seagm": 45.75,
         "Codashop": 50.0
       }
     },
