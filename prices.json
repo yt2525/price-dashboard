@@ -1,6 +1,162 @@
 {
-  "generated_at": "2026-05-20T19:57:11Z",
+  "generated_at": "2026-05-21T03:56:51Z",
   "prices": {
+    "Rewarble": {
+      "Rewarble Gift Cards USD 100 (Global)": {
+        "Seagm": 105.93
+      },
+      "Rewarble Gift Cards USD 60 (Global)": {
+        "Seagm": 63.56
+      },
+      "Rewarble Gift Cards USD 50 (Global)": {
+        "Seagm": 52.97
+      },
+      "Rewarble Gift Cards USD 30 (Global)": {
+        "Seagm": 31.78
+      },
+      "Rewarble Gift Cards USD 25 (Global)": {
+        "Seagm": 26.48
+      },
+      "Rewarble Gift Cards USD 20 (Global)": {
+        "Seagm": 21.19
+      },
+      "Rewarble Gift Cards USD 10 (Global)": {
+        "Seagm": 10.59
+      },
+      "Rewarble EUR100 Gift Cards": {
+        "Seagm": 105.93
+      },
+      "Rewarble EUR60 Gift Cards": {
+        "Seagm": 63.56
+      },
+      "Rewarble EUR50 Gift Cards": {
+        "Seagm": 52.97
+      },
+      "Rewarble EUR30 Gift Cards": {
+        "Seagm": 31.78
+      },
+      "Rewarble EUR25 Gift Cards": {
+        "Seagm": 26.48
+      },
+      "Rewarble EUR20 Gift Cards": {
+        "Seagm": 21.19
+      },
+      "Rewarble EUR10 Gift Cards": {
+        "Seagm": 10.59
+      }
+    },
+    "Steam": {
+      "Steam Wallet Code USD100 (US)": {
+        "Seagm": 110.74
+      },
+      "Steam Wallet Code USD50 (US)": {
+        "Seagm": 50.83
+      },
+      "Steam Wallet Code USD25 (US)": {
+        "Seagm": 26.4
+      },
+      "Steam Wallet Code USD20 (US)": {
+        "Seagm": 20.93
+      },
+      "Steam Wallet Code USD10 (US)": {
+        "Seagm": 10.75
+      },
+      "Steam Wallet Code USD5 (US)": {
+        "Seagm": 5.38
+      },
+      "Steam Wallet Code EUR 30 (EU)": {
+        "Seagm": 30.5
+      },
+      "Steam Wallet Code EUR 20 (EU)": {
+        "Seagm": 20.93
+      },
+      "Steam Wallet Code RM100 (MY)": {
+        "Seagm": 110.74
+      },
+      "Steam Wallet Code RM50 (MY)": {
+        "Seagm": 50.83
+      },
+      "Steam Wallet Code RM10 (MY)": {
+        "Seagm": 10.75
+      },
+      "Steam Wallet Card QAR 100": {
+        "Seagm": 110.74
+      }
+    },
+    "iTunes": {
+      "Apple iTunes USD500 Gift Card (US)": {
+        "Seagm": 485.0
+      },
+      "Apple iTunes USD400 Gift Card (US)": {
+        "Seagm": 388.0
+      },
+      "Apple iTunes USD300 Gift Card (US)": {
+        "Seagm": 291.0
+      },
+      "Apple iTunes USD200 Gift Card (US)": {
+        "Seagm": 194.0
+      },
+      "Apple iTunes USD100 Gift Card (US)": {
+        "Seagm": 97.0
+      },
+      "Apple iTunes USD50 Gift Card (US)": {
+        "Seagm": 48.5
+      },
+      "Apple iTunes USD40 Gift Card (US)": {
+        "Seagm": 38.8
+      },
+      "Apple iTunes USD30 Gift Card (US)": {
+        "Seagm": 29.1
+      },
+      "Apple iTunes USD25 Gift Card (US)": {
+        "Seagm": 24.25
+      },
+      "Apple iTunes USD20 Gift Card (US)": {
+        "Seagm": 19.4
+      },
+      "Apple iTunes USD15 Gift Card (US)": {
+        "Seagm": 14.55
+      },
+      "Apple iTunes USD10 Gift Card (US)": {
+        "Seagm": 9.7
+      },
+      "Apple iTunes USD5 Gift Card (US)": {
+        "Seagm": 4.85
+      },
+      "Apple iTunes GBP 100 Gift Card (UK)": {
+        "Seagm": 97.0
+      },
+      "Apple iTunes GBP 50 Gift Card (UK)": {
+        "Seagm": 48.5
+      },
+      "Apple iTunes GBP 25 Gift Card (UK)": {
+        "Seagm": 24.25
+      },
+      "Apple iTunes CNY500 Gift Card (CN)": {
+        "Seagm": 485.0
+      },
+      "Apple iTunes CNY100 Gift Card (CN)": {
+        "Seagm": 97.0
+      },
+      "Apple iTunes CAD 100 Gift Card (CA)": {
+        "Seagm": 97.0
+      },
+      "Apple iTunes CAD 50 Gift Card (CA)": {
+        "Seagm": 48.5
+      },
+      "Apple iTunes CAD 25 Gift Card (CA)": {
+        "Seagm": 24.25
+      },
+      "Apple iTunes EUR 100 Gift Card (DE)": {
+        "Seagm": 97.0
+      },
+      "Apple iTunes EUR 50 Gift Card (DE)": {
+        "Seagm": 48.5
+      },
+      "Apple iTunes EUR 25 Gift Card (DE)": {
+        "Seagm": 24.25
+      }
+    },
     "Apple Gift Card": {
       "Apple Gift Card USD 500  (US)": {
         "Seagm": 485.0
@@ -143,6 +299,11 @@
       "PlayStation™Store USD 50 Gift Cards (QA)": {
         "Seagm": 45.75,
         "Codashop": 50.0
+      }
+    },
+    "MyCard": {
+      "MyCard 50 Points (TW)": {
+        "Seagm": 50.23
       }
     },
     "Spotify": {
