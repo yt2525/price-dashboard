@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-22T04:20:29Z",
+  "generated_at": "2026-05-22T08:36:23Z",
   "prices": {
+    "Spotify": {
+      "Spotify Gift Card USD 60": {
+        "Seagm": 60.0
+      },
+      "Spotify Gift Card USD 30": {
+        "Seagm": 30.0
+      },
+      "Spotify Gift Card USD 10": {
+        "Seagm": 10.0,
+        "LapakGaming": 10.56
+      }
+    },
     "Rewarble": {
       "Rewarble Gift Cards USD 100 (Global)": {
         "Seagm": 105.93
@@ -324,14 +336,20 @@
         "Codashop": 50.0
       }
     },
-    "MyCard": {
-      "MyCard 50 Points (TW)": {
-        "Seagm": 50.3
+    "Amazon": {
+      "Amazon Gift Card USD 25 (US)": {
+        "Seagm": 25.25
+      },
+      "Amazon Gift Card USD 20 (US)": {
+        "Seagm": 20.26
+      },
+      "Amazon Gift Card USD 10 (US)": {
+        "Seagm": 10.13
       }
     },
-    "Spotify": {
-      "Spotify Gift Card USD 10": {
-        "LapakGaming": 10.61
+    "MyCard": {
+      "MyCard 50 Points (TW)": {
+        "Seagm": 50.36
       }
     }
   }
