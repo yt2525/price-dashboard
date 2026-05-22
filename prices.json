@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T18:30:35Z",
+  "generated_at": "2026-05-22T04:20:29Z",
   "prices": {
     "Rewarble": {
       "Rewarble Gift Cards USD 100 (Global)": {
@@ -43,6 +43,29 @@
       },
       "Rewarble EUR10 Gift Cards": {
         "Seagm": 10.59
+      }
+    },
+    "CashtoCode": {
+      "CashtoCode eVouchers USD 200 (Global)": {
+        "Seagm": 209.53
+      },
+      "CashtoCode eVouchers USD 100 (Global)": {
+        "Seagm": 104.77
+      },
+      "CashtoCode eVouchers USD 50 (Global)": {
+        "Seagm": 52.39
+      },
+      "CashtoCode eVouchers USD 25 (Global)": {
+        "Seagm": 26.2
+      },
+      "CashtoCode eVouchers AUD200 (AU)": {
+        "Seagm": 209.53
+      },
+      "CashtoCode eVouchers AUD100 (AU)": {
+        "Seagm": 104.77
+      },
+      "CashtoCode eVouchers AUD50 (AU)": {
+        "Seagm": 52.39
       }
     },
     "Steam": {
@@ -303,7 +326,7 @@
     },
     "MyCard": {
       "MyCard 50 Points (TW)": {
-        "Seagm": 50.26
+        "Seagm": 50.3
       }
     },
     "Spotify": {
