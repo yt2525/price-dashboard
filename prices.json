@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T10:39:21Z",
+  "generated_at": "2026-05-22T18:24:20Z",
   "prices": {
     "Spotify": {
       "Spotify Gift Card USD 60": {
@@ -338,7 +338,7 @@
     },
     "Amazon": {
       "Amazon Gift Card USD 25 (US)": {
-        "Seagm": 25.25
+        "Seagm": 24.99
       },
       "Amazon Gift Card USD 20 (US)": {
         "Seagm": 20.26
@@ -349,7 +349,7 @@
     },
     "MyCard": {
       "MyCard 50 Points (TW)": {
-        "Seagm": 50.36
+        "Seagm": 50.47
       }
     }
   }
