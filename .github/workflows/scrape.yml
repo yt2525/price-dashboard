@@ -2,7 +2,9 @@ name: Scrape competitor prices
 
 on:
   schedule:
+    # Run every 6 hours: 00:00, 06:00, 12:00, 18:00 UTC.
     - cron: '0 */6 * * *'
+  # Allow manual trigger from the Actions tab
   workflow_dispatch:
 
 permissions:
@@ -29,9 +31,19 @@ jobs:
       - name: Install Playwright Chromium
         run: python -m playwright install --with-deps chromium
 
+      - name: Install Patchright Chromium (stealth fork)
+        # patchright bundles its own patched chromium for bypassing Cloudflare
+        # bot challenges on G2A, G2G, Kinguin, Eneba.
+        run: python -m patchright install --with-deps chromium || true
+
+      - name: Install real Chrome (channel='chrome' for patchright)
+        # patchright recommends using a real Chrome binary; if available
+        # it's invoked via channel='chrome' in launch_persistent_context.
+        run: |
+          sudo apt-get update -y
+          sudo apt-get install -y --no-install-recommends google-chrome-stable || true
+
       - name: Run scraper
-        env:
-          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
         run: python scrape.py
 
       - name: Commit prices.json
