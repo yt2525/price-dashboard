@@ -1,4 +1,4 @@
 httpx==0.27.2
 playwright==1.47.0
-patchright==1.47.0
+patchright==1.55.2
 beautifulsoup4==4.12.3
