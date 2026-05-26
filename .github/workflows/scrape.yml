@@ -28,13 +28,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Install Playwright Chromium
-        run: python -m playwright install --with-deps chromium
-
-      - name: Install Patchright Chromium (stealth fork)
+      - name: Install Patchright Chromium (stealth fork of Playwright)
         # patchright bundles its own patched chromium for bypassing Cloudflare
-        # bot challenges on G2A, G2G, Kinguin, Eneba.
-        run: python -m patchright install --with-deps chromium || true
+        # bot challenges on G2A, G2G, Kinguin, Eneba. It also exposes a
+        # playwright-compatible API used by scrape.py.
+        run: python -m patchright install --with-deps chromium
 
       - name: Install real Chrome (channel='chrome' for patchright)
         # patchright recommends using a real Chrome binary; if available
