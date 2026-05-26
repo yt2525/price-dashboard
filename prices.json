@@ -1,121 +1,353 @@
 {
-  "generated_at": "2026-05-26T08:39:37Z",
+  "generated_at": "2026-05-26T09:50:26Z",
   "prices": {
-    "Spotify": {
-      "Spotify Gift Card USD 60": {
-        "Seagm": 60.0
+    "Genshin Impact": {
+      "Genshin Impact 1,980 + 260 Crystals (Global)": {
+        "OG": 3.53,
+        "G2G": 3.53,
+        "Kinguin": 92.65,
+        "Eneba": "N/A"
       },
-      "Spotify Gift Card USD 30": {
-        "Seagm": 30.0
+      "Genshin Impact 3,280 + 600 Crystals (Global)": {
+        "G2G": 3.53,
+        "Kinguin": 1.25,
+        "Eneba": "N/A"
       },
-      "Spotify Gift Card USD 10": {
-        "Seagm": 10.0,
-        "LapakGaming": 10.61
+      "Genshin Impact 9,760 + 2,200 Crystals (Global)": {
+        "Eneba": "N/A"
+      },
+      "Genshin Impact 6,480 + 1,600 Crystals (Global)": {
+        "Eneba": "N/A"
+      },
+      "Genshin Impact All Pack Genesis Crystals (Global)": {
+        "Eneba": "N/A"
+      }
+    },
+    "Wuthering Waves": {
+      "60 Lunites": {
+        "OG": 3.53,
+        "G2G": 8.64,
+        "Kinguin": 1.25,
+        "ItemkuEN": 0.79
+      },
+      "300 + 30 Lunites": {
+        "OG": 3.53,
+        "G2G": 3.53,
+        "Kinguin": 1.05,
+        "Eneba": "N/A",
+        "ItemkuEN": 1.0
+      },
+      "980 + 110 Lunites": {
+        "OG": 3.53,
+        "G2G": 3.53,
+        "Kinguin": 93.95,
+        "ItemkuEN": 1.0
+      },
+      "1,980 + 260 Lunites": {
+        "OG": 3.53,
+        "G2G": 8.64,
+        "Kinguin": 92.65,
+        "Eneba": "N/A",
+        "ItemkuEN": 1.0
+      },
+      "3,280 + 600 Lunites": {
+        "OG": 3.53,
+        "G2G": 3.53,
+        "Kinguin": 1.25,
+        "ItemkuEN": 1.0
+      },
+      "Lunite Subscription": {
+        "Eneba": "N/A"
       }
     },
     "Rewarble": {
-      "Rewarble Gift Cards USD 100 (Global)": {
-        "Seagm": 105.93
-      },
-      "Rewarble Gift Cards USD 60 (Global)": {
-        "Seagm": 63.56
-      },
-      "Rewarble Gift Cards USD 50 (Global)": {
-        "Seagm": 52.97
-      },
-      "Rewarble Gift Cards USD 30 (Global)": {
-        "Seagm": 31.78
-      },
-      "Rewarble Gift Cards USD 25 (Global)": {
-        "Seagm": 26.48
-      },
-      "Rewarble Gift Cards USD 20 (Global)": {
-        "Seagm": 21.19
-      },
-      "Rewarble Gift Cards USD 10 (Global)": {
-        "Seagm": 10.59
-      },
       "Rewarble EUR100 Gift Cards": {
-        "Seagm": 105.93
+        "OG": 3.53,
+        "G2G": 3.53,
+        "Seagm": 105.93,
+        "Eneba": "N/A",
+        "ItemkuEN": 1.05
       },
       "Rewarble EUR60 Gift Cards": {
-        "Seagm": 63.56
+        "OG": "N/A",
+        "G2G": 3.53,
+        "Seagm": 63.56,
+        "ItemkuEN": 1.05
       },
       "Rewarble EUR50 Gift Cards": {
-        "Seagm": 52.97
+        "OG": "N/A",
+        "G2G": 3.53,
+        "Seagm": 52.97,
+        "Eneba": "N/A",
+        "ItemkuEN": 1.05
       },
       "Rewarble EUR30 Gift Cards": {
-        "Seagm": 31.78
+        "OG": "N/A",
+        "G2G": 3.53,
+        "Seagm": 31.78,
+        "ItemkuEN": 1.05
       },
       "Rewarble EUR25 Gift Cards": {
-        "Seagm": 26.48
+        "OG": "N/A",
+        "G2G": 3.53,
+        "Seagm": 26.48,
+        "ItemkuEN": 1.05
       },
       "Rewarble EUR20 Gift Cards": {
-        "Seagm": 21.19
+        "OG": "N/A",
+        "G2G": 3.53,
+        "Seagm": 21.19,
+        "ItemkuEN": 1.05
       },
       "Rewarble EUR10 Gift Cards": {
-        "Seagm": 10.59
+        "OG": "N/A",
+        "G2G": 3.53,
+        "Seagm": 10.59,
+        "ItemkuEN": 1.05
+      },
+      "Rewarble Gift Cards USD 100 (Global)": {
+        "Seagm": 105.93,
+        "Eneba": "N/A",
+        "ItemkuEN": 1.0
+      },
+      "Rewarble Gift Cards USD 60 (Global)": {
+        "Seagm": 63.56,
+        "ItemkuEN": 1.0
+      },
+      "Rewarble Gift Cards USD 50 (Global)": {
+        "Seagm": 52.97,
+        "ItemkuEN": 1.0
+      },
+      "Rewarble Gift Cards USD 30 (Global)": {
+        "Seagm": 31.78,
+        "Eneba": "N/A",
+        "ItemkuEN": 1.0
+      },
+      "Rewarble Gift Cards USD 25 (Global)": {
+        "Seagm": 26.48,
+        "ItemkuEN": 1.0
+      },
+      "Rewarble Gift Cards USD 20 (Global)": {
+        "Seagm": 21.19,
+        "Eneba": "N/A",
+        "ItemkuEN": 1.0
+      },
+      "Rewarble Gift Cards USD 10 (Global)": {
+        "Seagm": 10.59,
+        "ItemkuEN": 8.01
       }
     },
     "CashtoCode": {
-      "CashtoCode eVouchers USD 200 (Global)": {
+      "CashtoCode eVouchers AUD200 (AU)": {
+        "OG": 3.53,
         "Seagm": 209.53
       },
-      "CashtoCode eVouchers USD 100 (Global)": {
+      "CashtoCode eVouchers AUD100 (AU)": {
+        "OG": 3.53,
         "Seagm": 104.77
+      },
+      "CashtoCode eVouchers AUD50 (AU)": {
+        "OG": 3.53,
+        "Seagm": 52.39
+      },
+      "CashtoCode eVouchers USD 200 (Global)": {
+        "Seagm": 209.53,
+        "ItemkuEN": 1.0
+      },
+      "CashtoCode eVouchers USD 100 (Global)": {
+        "Seagm": 104.77,
+        "ItemkuEN": 1.0
       },
       "CashtoCode eVouchers USD 50 (Global)": {
         "Seagm": 52.39
       },
       "CashtoCode eVouchers USD 25 (Global)": {
         "Seagm": 26.2
+      }
+    },
+    "GASH": {
+      "GASH 100 Points (HK)": {
+        "OG": 3.53
       },
-      "CashtoCode eVouchers AUD200 (AU)": {
-        "Seagm": 209.53
+      "GASH 5000 Points (TW)": {
+        "OG": 3.53
       },
-      "CashtoCode eVouchers AUD100 (AU)": {
-        "Seagm": 104.77
+      "GASH 3000 Points (TW)": {
+        "OG": 3.53
       },
-      "CashtoCode eVouchers AUD50 (AU)": {
-        "Seagm": 52.39
+      "GASH 1000 Points (TW)": {
+        "OG": 3.53
       }
     },
     "Steam": {
+      "Steam Wallet Code USD50 (US)": {
+        "OG": 100.0,
+        "Seagm": 50.83
+      },
+      "Steam Wallet Code USD20 (US)": {
+        "OG": 50.0,
+        "Seagm": 20.93
+      },
+      "Steam Wallet Code USD10 (US)": {
+        "OG": 20.0,
+        "Seagm": 10.75
+      },
+      "Steam Wallet Code USD5 (US)": {
+        "OG": 5.09,
+        "Seagm": 5.38
+      },
+      "Steam Wallet Code EUR 20 (EU)": {
+        "OG": 50.0,
+        "Seagm": 20.93
+      },
+      "Steam Wallet Code RM50 (MY)": {
+        "OG": 100.0,
+        "Seagm": 50.83
+      },
+      "Steam Wallet Code RM10 (MY)": {
+        "OG": 20.0,
+        "Seagm": 10.75
+      },
       "Steam Wallet Code USD100 (US)": {
         "Seagm": 110.74
-      },
-      "Steam Wallet Code USD50 (US)": {
-        "Seagm": 50.83
       },
       "Steam Wallet Code USD25 (US)": {
         "Seagm": 26.4
       },
-      "Steam Wallet Code USD20 (US)": {
-        "Seagm": 20.93
-      },
-      "Steam Wallet Code USD10 (US)": {
-        "Seagm": 10.75
-      },
-      "Steam Wallet Code USD5 (US)": {
-        "Seagm": 5.38
-      },
       "Steam Wallet Code EUR 30 (EU)": {
         "Seagm": 30.5
-      },
-      "Steam Wallet Code EUR 20 (EU)": {
-        "Seagm": 20.93
       },
       "Steam Wallet Code RM100 (MY)": {
         "Seagm": 110.74
       },
-      "Steam Wallet Code RM50 (MY)": {
-        "Seagm": 50.83
-      },
-      "Steam Wallet Code RM10 (MY)": {
-        "Seagm": 10.75
-      },
       "Steam Wallet Card QAR 100": {
         "Seagm": 110.74
+      }
+    },
+    "MINT": {
+      "MINT Prepaid Card USD300 (Global)": {
+        "OG": 3.53
+      },
+      "MINT Prepaid Card USD100 (Global)": {
+        "OG": 3.53
+      },
+      "MINT Prepaid Card USD50 (Global)": {
+        "OG": 3.53
+      },
+      "MINT Prepaid Card USD30 (Global)": {
+        "OG": 3.53
+      },
+      "MINT Prepaid Card USD20 (Global)": {
+        "OG": 3.53
+      },
+      "MINT Prepaid Card USD10 (Global)": {
+        "OG": 3.53
+      },
+      "MINT Prepaid Card USD5 (Global)": {
+        "OG": 3.53
+      }
+    },
+    "Gift Me Crypto": {
+      "Gift Me Crypto EUR200 (EU)": {
+        "OG": 3.53
+      },
+      "Gift Me Crypto EUR100 (EU)": {
+        "OG": 3.53
+      },
+      "Gift Me Crypto EUR50 (EU)": {
+        "OG": 3.53
+      },
+      "Gift Me Crypto EUR20 (EU)": {
+        "OG": 3.53
+      },
+      "Gift Me Crypto EUR10 (EU)": {
+        "OG": 3.53
+      },
+      "Gift Me Crypto USD200 (US)": {
+        "OG": 3.53
+      },
+      "Gift Me Crypto USD100 (US)": {
+        "OG": 3.53
+      }
+    },
+    "Valorant": {
+      "Valorant 475 Points (Global)": {
+        "G2G": 3.53,
+        "Kinguin": 1.42
+      },
+      "Valorant 11,000 Points  (Global)": {
+        "Eneba": "N/A"
+      },
+      "Valorant 5,350 Points (Global)": {
+        "Eneba": "N/A"
+      },
+      "Valorant 3,650 Points (Global)": {
+        "Eneba": "N/A"
+      }
+    },
+    "RBL": {
+      "Roblox Game Card USD 200 (US)": {
+        "Kinguin": 20.0,
+        "ItemkuEN": 6.5
+      },
+      "Roblox Game Card USD 100 (US)": {
+        "Kinguin": 10.0,
+        "Eneba": "N/A",
+        "ItemkuEN": 6.5
+      },
+      "Roblox Game Card USD 50 (US)": {
+        "Kinguin": 50.0,
+        "ItemkuEN": 6.5
+      },
+      "Roblox Game Card USD 25 (US)": {
+        "Kinguin": 32.43,
+        "Eneba": "N/A",
+        "ItemkuEN": 6.5
+      },
+      "Roblox Game Card USD 10 (US)": {
+        "Kinguin": 32.43,
+        "ItemkuEN": 6.5
+      },
+      "Roblox 32,500 Rbx": {
+        "Eneba": "N/A",
+        "ItemkuEN": 1.0
+      },
+      "Roblox 4,500 Rbx": {
+        "Eneba": "N/A",
+        "ItemkuEN": 1.0
+      },
+      "Roblox 1,000 Rbx": {
+        "Eneba": "N/A",
+        "ItemkuEN": 1.0
+      },
+      "Roblox 22,500 Rbx": {
+        "ItemkuEN": 1.0
+      },
+      "Roblox 10,000 Rbx": {
+        "ItemkuEN": 1.0
+      },
+      "Roblox 3,700 Rbx": {
+        "ItemkuEN": 1.0
+      }
+    },
+    "Spotify": {
+      "Spotify Gift Card USD 60": {
+        "Seagm": 60.0,
+        "Eneba": "N/A",
+        "ItemkuEN": 1.0
+      },
+      "Spotify Gift Card USD 30": {
+        "Seagm": 30.0,
+        "ItemkuEN": 1.0
+      },
+      "Spotify Gift Card USD 10": {
+        "Seagm": 10.0,
+        "LapakGaming": 10.61,
+        "Eneba": "N/A",
+        "ItemkuEN": 1.0
+      },
+      "Spotify Gift Card USD 99": {
+        "ItemkuEN": 1.0
       }
     },
     "iTunes": {
@@ -350,6 +582,81 @@
     "MyCard": {
       "MyCard 50 Points (TW)": {
         "Seagm": 50.41
+      }
+    },
+    "Zenless Zone Zero": {
+      "DTU Zenless Zone Zero All Pack Monochrome (Global)": {
+        "Eneba": "N/A"
+      }
+    },
+    "WOW Prepaid GC": {
+      "WOW Prepaid Game Card 60 Days (EU)": {
+        "Eneba": "N/A"
+      }
+    },
+    "Honkai Star Rail": {
+      "Honkai: Star Rail 6,480 + 1,600 Oneiric Shard (Global)": {
+        "Eneba": "N/A"
+      },
+      "Honkai: Star Rail All Pack Oneiric Shard (Global)": {
+        "Eneba": "N/A"
+      }
+    },
+    "Discord": {
+      "DC Nitro Membership 1 Year Code": {
+        "Eneba": "N/A"
+      },
+      "DC Nitro Membership 3 Months Trial Code": {
+        "Eneba": "N/A"
+      },
+      "DC Nitro Membership 1 Month (Activation Link)": {
+        "Eneba": "N/A"
+      }
+    },
+    "Perplexity AI": {
+      "Perplexity AI Pro Yearly (Global)": {
+        "Eneba": "N/A"
+      }
+    },
+    "YouTube": {
+      "Youtube Premium 1 Month Account": {
+        "Eneba": "N/A"
+      }
+    },
+    "League of Legends (EU)": {
+      "12,550 RP [DTU]": {
+        "Eneba": "N/A",
+        "ItemkuEN": 1.0
+      },
+      "7,530 RP [DTU]": {
+        "Eneba": "N/A",
+        "ItemkuEN": 1.0
+      },
+      "15,060 RP [DTU]": {
+        "ItemkuEN": 1.0
+      },
+      "10,040 RP [DTU]": {
+        "ItemkuEN": 1.0
+      },
+      "5,020 RP [DTU]": {
+        "ItemkuEN": 1.0
+      }
+    },
+    "Strong IPTV 8k": {
+      "Strng IPTV 8K Subscription 12 Months - Private Account (Global)": {
+        "Eneba": "N/A"
+      },
+      "Strng IPTV 8K Subscription 3 Months - Private Account (Global)": {
+        "Eneba": "N/A"
+      },
+      "Strng IPTV 8K Subscription 12 Months - Shared Account (Global)": {
+        "Eneba": "N/A"
+      },
+      "Strng IPTV 8K Subscription 3 Months - Shared Account (Global)": {
+        "Eneba": "N/A"
+      },
+      "Strng IPTV 8K Reseller Panel 120 Credits 10 Years - Reseller Account (Global)": {
+        "Eneba": "N/A"
       }
     }
   }
