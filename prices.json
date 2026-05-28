@@ -1,32 +1,42 @@
 {
-  "generated_at": "2026-05-28T02:37:00Z",
+  "generated_at": "2026-05-28T08:52:31Z",
   "prices": {
     "Genshin Impact": {
       "Genshin Impact 3,280 + 600 Crystals (Global)": {
-        "OG": 3.56,
+        "OG": 8.64,
         "G2G": 3.53,
         "Eneba": "N/A",
         "ItemkuEN": 16.25
       },
       "Genshin Impact 1,980 + 260 Crystals (Global)": {
-        "OG": 8.64,
-        "G2G": 8.64,
-        "Eneba": "N/A"
+        "OG": 3.53,
+        "G2G": 3.53,
+        "Eneba": "N/A",
+        "ItemkuEN": "N/A"
       },
       "Genshin Impact 9,760 + 2,200 Crystals (Global)": {
-        "Eneba": "N/A"
+        "OG": "N/A",
+        "G2G": "N/A",
+        "Eneba": "N/A",
+        "ItemkuEN": "N/A"
       },
       "Genshin Impact 6,480 + 1,600 Crystals (Global)": {
-        "Eneba": "N/A"
+        "OG": "N/A",
+        "G2G": "N/A",
+        "Eneba": "N/A",
+        "ItemkuEN": "N/A"
       },
       "Genshin Impact All Pack Genesis Crystals (Global)": {
-        "Eneba": "N/A"
+        "OG": "N/A",
+        "G2G": "N/A",
+        "Eneba": "N/A",
+        "ItemkuEN": "N/A"
       }
     },
     "Wuthering Waves": {
       "60 Lunites": {
-        "OG": 3.53,
-        "G2G": 8.64,
+        "OG": 208.96,
+        "G2G": 3.53,
         "ItemkuEN": 0.78
       },
       "300 + 30 Lunites": {
@@ -42,7 +52,7 @@
       },
       "1,980 + 260 Lunites": {
         "OG": 3.53,
-        "G2G": 8.64,
+        "G2G": 3.53,
         "Eneba": "N/A",
         "ItemkuEN": 1.0
       },
@@ -51,8 +61,16 @@
         "G2G": 3.53,
         "ItemkuEN": 1.0
       },
+      "Lunite Subscription": {
+        "OG": "N/A",
+        "G2G": "N/A",
+        "Eneba": "N/A",
+        "ItemkuEN": "N/A"
+      },
       "Insider Channel": {
-        "Eneba": "N/A"
+        "OG": "N/A",
+        "G2G": "N/A",
+        "ItemkuEN": "N/A"
       }
     },
     "Rewarble": {
@@ -102,32 +120,46 @@
         "ItemkuEN": 1.05
       },
       "Rewarble Gift Cards USD 100 (Global)": {
+        "OG": "N/A",
+        "G2G": "N/A",
         "Seagm": 105.93,
         "ItemkuEN": 1.0
       },
       "Rewarble Gift Cards USD 60 (Global)": {
+        "OG": "N/A",
+        "G2G": "N/A",
         "Seagm": 63.56,
         "Eneba": "N/A",
         "ItemkuEN": 8.64
       },
       "Rewarble Gift Cards USD 50 (Global)": {
+        "OG": "N/A",
+        "G2G": "N/A",
         "Seagm": 52.97,
         "ItemkuEN": 1.0
       },
       "Rewarble Gift Cards USD 30 (Global)": {
+        "OG": "N/A",
+        "G2G": "N/A",
         "Seagm": 31.78,
         "ItemkuEN": 1.0
       },
       "Rewarble Gift Cards USD 25 (Global)": {
+        "OG": "N/A",
+        "G2G": "N/A",
         "Seagm": 26.48,
         "Eneba": "N/A",
         "ItemkuEN": 1.0
       },
       "Rewarble Gift Cards USD 20 (Global)": {
+        "OG": "N/A",
+        "G2G": "N/A",
         "Seagm": 21.19,
         "ItemkuEN": 1.0
       },
       "Rewarble Gift Cards USD 10 (Global)": {
+        "OG": "N/A",
+        "G2G": "N/A",
         "Seagm": 10.59,
         "Eneba": "N/A",
         "ItemkuEN": 7.23
@@ -136,29 +168,54 @@
     "CashtoCode": {
       "CashtoCode eVouchers AUD200 (AU)": {
         "OG": 3.53,
-        "Seagm": 209.53
+        "Seagm": 209.53,
+        "ItemkuEN": "N/A"
       },
       "CashtoCode eVouchers AUD100 (AU)": {
         "OG": 3.53,
-        "Seagm": 104.77
+        "Seagm": 104.77,
+        "ItemkuEN": "N/A"
       },
       "CashtoCode eVouchers AUD50 (AU)": {
         "OG": 3.53,
-        "Seagm": 52.39
+        "Seagm": 52.39,
+        "ItemkuEN": "N/A"
       },
       "CashtoCode eVouchers USD 200 (Global)": {
+        "OG": "N/A",
         "Seagm": 209.53,
-        "Eneba": "N/A",
         "ItemkuEN": 1.0
       },
       "CashtoCode eVouchers USD 100 (Global)": {
-        "Seagm": 104.77
+        "OG": "N/A",
+        "Seagm": 104.77,
+        "Eneba": "N/A",
+        "ItemkuEN": 1.0
       },
       "CashtoCode eVouchers USD 50 (Global)": {
-        "Seagm": 52.39
+        "OG": "N/A",
+        "Seagm": 52.39,
+        "ItemkuEN": 1.0
       },
       "CashtoCode eVouchers USD 25 (Global)": {
-        "Seagm": 26.2
+        "OG": "N/A",
+        "Seagm": 26.2,
+        "ItemkuEN": 1.0
+      },
+      "CashtoCode eVouchers JPY24,000 (JP)": {
+        "OG": "N/A",
+        "Seagm": "N/A",
+        "ItemkuEN": 1.0
+      },
+      "CashtoCode eVouchers JPY12,000 (JP)": {
+        "OG": "N/A",
+        "Seagm": "N/A",
+        "ItemkuEN": "N/A"
+      },
+      "CashtoCode eVouchers JPY6,000 (JP)": {
+        "OG": "N/A",
+        "Seagm": "N/A",
+        "ItemkuEN": "N/A"
       }
     },
     "GASH": {
@@ -173,6 +230,15 @@
       },
       "GASH 1000 Points (TW)": {
         "OG": 3.53
+      },
+      "GASH 5,000 Points (HK)": {
+        "OG": "N/A"
+      },
+      "GASH 3,000 Points (HK)": {
+        "OG": "N/A"
+      },
+      "GASH 1,000 Points (HK)": {
+        "OG": "N/A"
       }
     },
     "Steam": {
@@ -205,19 +271,152 @@
         "Seagm": 10.75
       },
       "Steam Wallet Code USD100 (US)": {
+        "OG": "N/A",
         "Seagm": 110.74
       },
       "Steam Wallet Code USD25 (US)": {
+        "OG": "N/A",
         "Seagm": 26.4
       },
       "Steam Wallet Code EUR 30 (EU)": {
+        "OG": "N/A",
         "Seagm": 30.5
       },
+      "Steam Wallet Code RM200 (MY)": {
+        "OG": "N/A",
+        "Seagm": "N/A"
+      },
       "Steam Wallet Code RM100 (MY)": {
+        "OG": "N/A",
         "Seagm": 110.74
       },
+      "Steam Wallet Code RM80 (MY)": {
+        "OG": "N/A",
+        "Seagm": "N/A"
+      },
+      "Steam Wallet Card QAR 400": {
+        "OG": "N/A",
+        "Seagm": "N/A"
+      },
+      "Steam Wallet Card QAR 200": {
+        "OG": "N/A",
+        "Seagm": "N/A"
+      },
       "Steam Wallet Card QAR 100": {
+        "OG": "N/A",
         "Seagm": 110.74
+      }
+    },
+    "PlayStation": {
+      "PlayStation™Store GBP 20 Gift Cards (UK)": {
+        "OG": 50.0,
+        "Seagm": 21.32,
+        "Codashop": "N/A"
+      },
+      "PlayStation™Store USD250 Gift Cards (US)": {
+        "OG": "N/A",
+        "Seagm": 231.25,
+        "Codashop": "N/A"
+      },
+      "PlayStation™Store USD200 Gift Cards (US)": {
+        "OG": "N/A",
+        "Seagm": 185.0,
+        "Codashop": "N/A"
+      },
+      "PlayStation™Store USD150 Gift Cards (US)": {
+        "OG": "N/A",
+        "Seagm": 138.75,
+        "Codashop": "N/A"
+      },
+      "PlayStation™Store USD100 Gift Cards (US)": {
+        "OG": "N/A",
+        "Seagm": 91.5,
+        "Codashop": 100.0
+      },
+      "PlayStation™Store USD75 Gift Cards (US)": {
+        "OG": "N/A",
+        "Seagm": 68.63,
+        "Codashop": 75.0
+      },
+      "PlayStation™Store USD50 Gift Cards (US)": {
+        "OG": "N/A",
+        "Seagm": 45.75,
+        "Codashop": 50.0
+      },
+      "PlayStation™Store USD25 Gift Cards (US)": {
+        "OG": "N/A",
+        "Seagm": 22.88,
+        "Codashop": 25.0
+      },
+      "PlayStation™Store GBP 100 Gift Cards (UK)": {
+        "OG": "N/A",
+        "Seagm": 91.5,
+        "Codashop": 100.0
+      },
+      "PlayStation™Store GBP 50 Gift Cards (UK)": {
+        "OG": "N/A",
+        "Seagm": 45.75,
+        "Codashop": 50.0
+      },
+      "PlayStation™Store USD 200 Gift Cards (AE)": {
+        "OG": "N/A",
+        "Seagm": 185.0,
+        "Codashop": "N/A"
+      },
+      "PlayStation™Store USD 100 Gift Cards (AE)": {
+        "OG": "N/A",
+        "Seagm": 91.5,
+        "Codashop": 100.0
+      },
+      "PlayStation™Store USD 50 Gift Cards (AE)": {
+        "OG": "N/A",
+        "Seagm": 45.75,
+        "Codashop": 50.0
+      },
+      "PlayStation™Store MYR 200 Gift Cards (MY)": {
+        "OG": "N/A",
+        "Seagm": 185.0,
+        "Codashop": "N/A"
+      },
+      "PlayStation™Store MYR 100 Gift Cards (MY)": {
+        "OG": "N/A",
+        "Seagm": 91.5,
+        "Codashop": 100.0
+      },
+      "PlayStation™Store MYR 50 Gift Cards (MY)": {
+        "OG": "N/A",
+        "Seagm": 45.75,
+        "Codashop": 50.0
+      },
+      "PlayStation™Store EUR 250 Gift Cards (DE)": {
+        "OG": "N/A",
+        "Seagm": 231.25,
+        "Codashop": "N/A"
+      },
+      "PlayStation™Store EUR 200 Gift Cards (DE)": {
+        "OG": "N/A",
+        "Seagm": 185.0,
+        "Codashop": "N/A"
+      },
+      "PlayStation™Store EUR 150 Gift Cards (DE)": {
+        "OG": "N/A",
+        "Seagm": 138.75,
+        "Codashop": "N/A"
+      },
+      "PlayStation™Store USD 200 Gift Cards (QA)": {
+        "OG": "N/A",
+        "Seagm": 185.0,
+        "Codashop": "N/A"
+      },
+      "PlayStation™Store USD 100 Gift Cards (QA)": {
+        "OG": "N/A",
+        "Seagm": 91.5,
+        "Codashop": 100.0
+      },
+      "PlayStation™Store USD 50 Gift Cards (QA)": {
+        "OG": "N/A",
+        "Seagm": 45.75,
+        "Codashop": 50.0
       }
     },
     "MINT": {
@@ -266,7 +465,13 @@
         "OG": 3.53
       },
       "Gift Me Crypto USD50 (US)": {
-        "OG": 3.53
+        "OG": "N/A"
+      },
+      "Gift Me Crypto USD20 (US)": {
+        "OG": "N/A"
+      },
+      "Gift Me Crypto USD10 (US)": {
+        "OG": "N/A"
       }
     },
     "Valorant": {
@@ -274,66 +479,84 @@
         "G2G": 3.53
       },
       "Valorant 11,000 Points  (Global)": {
+        "G2G": "N/A",
         "Eneba": "N/A"
       },
       "Valorant 5,350 Points (Global)": {
+        "G2G": "N/A",
         "Eneba": "N/A"
       },
       "Valorant 3,650 Points (Global)": {
+        "G2G": "N/A",
         "Eneba": "N/A"
+      },
+      "Valorant 2,050 Points (Global)": {
+        "G2G": "N/A"
+      },
+      "Valorant 1,000 Points (Global)": {
+        "G2G": "N/A"
       }
     },
     "RBL": {
       "Roblox Game Card USD 50 (US)": {
-        "Kinguin": 65.36,
-        "ItemkuEN": 6.5
+        "Kinguin": 65.34,
+        "Eneba": "N/A",
+        "ItemkuEN": 1.0
       },
       "Roblox Game Card USD 25 (US)": {
         "Kinguin": 23.53,
-        "Eneba": "N/A",
-        "ItemkuEN": 6.5
+        "ItemkuEN": 1.0
       },
       "Roblox Game Card USD 10 (US)": {
-        "Kinguin": 10.13,
-        "ItemkuEN": 6.5
-      },
-      "Roblox Game Card USD 100 (US)": {
-        "Eneba": "N/A",
-        "ItemkuEN": 6.5
-      },
-      "Roblox 32,500 Rbx": {
-        "Eneba": "N/A",
-        "ItemkuEN": 1.0
-      },
-      "Roblox 4,500 Rbx": {
-        "Eneba": "N/A",
-        "ItemkuEN": 1.0
-      },
-      "Roblox 1,000 Rbx": {
+        "Kinguin": 9.66,
         "Eneba": "N/A",
         "ItemkuEN": 1.0
       },
       "Roblox Game Card USD 200 (US)": {
-        "ItemkuEN": 6.5
+        "Kinguin": "N/A",
+        "ItemkuEN": 1.0
+      },
+      "Roblox Game Card USD 100 (US)": {
+        "Kinguin": "N/A",
+        "ItemkuEN": 1.0
+      },
+      "Roblox 32,500 Rbx": {
+        "Kinguin": "N/A",
+        "ItemkuEN": 1.0
       },
       "Roblox 22,500 Rbx": {
+        "Kinguin": "N/A",
         "ItemkuEN": 1.0
       },
       "Roblox 10,000 Rbx": {
+        "Kinguin": "N/A",
+        "Eneba": "N/A",
+        "ItemkuEN": 1.0
+      },
+      "Roblox 4,500 Rbx": {
+        "Kinguin": "N/A",
         "ItemkuEN": 1.0
       },
       "Roblox 3,700 Rbx": {
+        "Kinguin": "N/A",
+        "Eneba": "N/A",
+        "ItemkuEN": 1.0
+      },
+      "Roblox 1,000 Rbx": {
+        "Kinguin": "N/A",
         "ItemkuEN": 1.0
       }
     },
     "Spotify": {
       "Spotify Gift Card USD 60": {
         "Seagm": 60.0,
+        "LapakGaming": "N/A",
         "Eneba": "N/A",
         "ItemkuEN": 1.0
       },
       "Spotify Gift Card USD 30": {
         "Seagm": 30.0,
+        "LapakGaming": "N/A",
         "ItemkuEN": 1.0
       },
       "Spotify Gift Card USD 10": {
@@ -343,6 +566,8 @@
         "ItemkuEN": 1.0
       },
       "Spotify Gift Card USD 99": {
+        "Seagm": "N/A",
+        "LapakGaming": "N/A",
         "ItemkuEN": 1.0
       }
     },
@@ -418,6 +643,15 @@
       },
       "Apple iTunes EUR 25 Gift Card (DE)": {
         "Seagm": 24.25
+      },
+      "Apple iTunes JPY 50,000 Gift Card (JP)": {
+        "Seagm": "N/A"
+      },
+      "Apple iTunes JPY 30,000 Gift Card (JP)": {
+        "Seagm": "N/A"
+      },
+      "Apple iTunes JPY 10,000 Gift Card (JP)": {
+        "Seagm": "N/A"
       }
     },
     "Apple Gift Card": {
@@ -482,86 +716,27 @@
       },
       "Razer Gold USD 100 (Global)": {
         "Seagm": 100.0
-      }
-    },
-    "PlayStation": {
-      "PlayStation™Store USD250 Gift Cards (US)": {
-        "Seagm": 231.25
       },
-      "PlayStation™Store USD200 Gift Cards (US)": {
-        "Seagm": 185.0
+      "Razer Gold USD500 (US)": {
+        "Seagm": "N/A"
       },
-      "PlayStation™Store USD150 Gift Cards (US)": {
-        "Seagm": 138.75
+      "Razer Gold USD400 (US)": {
+        "Seagm": "N/A"
       },
-      "PlayStation™Store USD100 Gift Cards (US)": {
-        "Seagm": 91.5,
-        "Codashop": 100.0
+      "Razer Gold USD300 (US)": {
+        "Seagm": "N/A"
       },
-      "PlayStation™Store USD75 Gift Cards (US)": {
-        "Seagm": 68.63,
-        "Codashop": 75.0
+      "Razer Gold USD200 (US)": {
+        "Seagm": "N/A"
       },
-      "PlayStation™Store USD50 Gift Cards (US)": {
-        "Seagm": 45.75,
-        "Codashop": 50.0
+      "Razer Gold USD25 (US)": {
+        "Seagm": "N/A"
       },
-      "PlayStation™Store USD25 Gift Cards (US)": {
-        "Seagm": 22.88,
-        "Codashop": 25.0
+      "Razer Gold USD 500 (Global)": {
+        "Seagm": "N/A"
       },
-      "PlayStation™Store GBP 100 Gift Cards (UK)": {
-        "Seagm": 91.5,
-        "Codashop": 100.0
-      },
-      "PlayStation™Store GBP 50 Gift Cards (UK)": {
-        "Seagm": 45.75,
-        "Codashop": 50.0
-      },
-      "PlayStation™Store GBP 20 Gift Cards (UK)": {
-        "Seagm": 21.32
-      },
-      "PlayStation™Store USD 200 Gift Cards (AE)": {
-        "Seagm": 185.0
-      },
-      "PlayStation™Store USD 100 Gift Cards (AE)": {
-        "Seagm": 91.5,
-        "Codashop": 100.0
-      },
-      "PlayStation™Store USD 50 Gift Cards (AE)": {
-        "Seagm": 45.75,
-        "Codashop": 50.0
-      },
-      "PlayStation™Store MYR 200 Gift Cards (MY)": {
-        "Seagm": 185.0
-      },
-      "PlayStation™Store MYR 100 Gift Cards (MY)": {
-        "Seagm": 91.5,
-        "Codashop": 100.0
-      },
-      "PlayStation™Store MYR 50 Gift Cards (MY)": {
-        "Seagm": 45.75,
-        "Codashop": 50.0
-      },
-      "PlayStation™Store EUR 250 Gift Cards (DE)": {
-        "Seagm": 231.25
-      },
-      "PlayStation™Store EUR 200 Gift Cards (DE)": {
-        "Seagm": 185.0
-      },
-      "PlayStation™Store EUR 150 Gift Cards (DE)": {
-        "Seagm": 138.75
-      },
-      "PlayStation™Store USD 200 Gift Cards (QA)": {
-        "Seagm": 185.0
-      },
-      "PlayStation™Store USD 100 Gift Cards (QA)": {
-        "Seagm": 91.5,
-        "Codashop": 100.0
-      },
-      "PlayStation™Store USD 50 Gift Cards (QA)": {
-        "Seagm": 45.75,
-        "Codashop": 50.0
+      "Razer Gold USD 200 (Global)": {
+        "Seagm": "N/A"
       }
     },
     "Amazon": {
@@ -573,14 +748,95 @@
       },
       "Amazon Gift Card USD 10 (US)": {
         "Seagm": 10.05
+      },
+      "Amazon Gift Card USD 1000 (US)": {
+        "Seagm": "N/A"
+      },
+      "Amazon Gift Card USD 500 (US)": {
+        "Seagm": "N/A"
+      },
+      "Amazon Gift Card USD 150 (US)": {
+        "Seagm": "N/A"
+      },
+      "Amazon Gift Card USD 75 (US)": {
+        "Seagm": "N/A"
+      },
+      "Amazon Gift Card USD 35 (US)": {
+        "Seagm": "N/A"
+      },
+      "Amazon Gift Card USD 30 (US)": {
+        "Seagm": "N/A"
+      },
+      "Amazon Gift Card USD 15 (US)": {
+        "Seagm": "N/A"
       }
     },
     "MyCard": {
       "MyCard 50 Points (TW)": {
-        "Seagm": 50.39
+        "Seagm": 50.47
+      },
+      "MyCard 10,000 Points (TW)": {
+        "Seagm": "N/A"
+      },
+      "MyCard 5,000 Points (TW)": {
+        "Seagm": "N/A"
+      },
+      "MyCard 3,290 Points (TW)": {
+        "Seagm": "N/A"
+      },
+      "MyCard 3,000 Points (TW)": {
+        "Seagm": "N/A"
+      },
+      "MyCard 2500 Points (TW)": {
+        "Seagm": "N/A"
+      },
+      "MyCard 2,000 Points (TW)": {
+        "Seagm": "N/A"
+      },
+      "MyCard 1690 Points (TW)": {
+        "Seagm": "N/A"
+      },
+      "MyCard 1490 Points (TW)": {
+        "Seagm": "N/A"
+      },
+      "MyCard 1150 Points (TW)": {
+        "Seagm": "N/A"
+      },
+      "MyCard 1,000 Points (TW)": {
+        "Seagm": "N/A"
+      },
+      "MyCard 750 Points (TW)": {
+        "Seagm": "N/A"
+      },
+      "MyCard 500 Points (TW)": {
+        "Seagm": "N/A"
+      },
+      "MyCard 400 Points (TW)": {
+        "Seagm": "N/A"
+      },
+      "MyCard 350 Points (TW)": {
+        "Seagm": "N/A"
+      },
+      "MyCard 170 Points (TW)": {
+        "Seagm": "N/A"
+      },
+      "MyCard 150 Points (TW)": {
+        "Seagm": "N/A"
+      },
+      "MyCard 90 Points (TW)": {
+        "Seagm": "N/A"
+      },
+      "MyCard 30 Points (TW)": {
+        "Seagm": "N/A"
       }
     },
     "Zenless Zone Zero": {
+      "DTU Zenless Zone Zero 6,480 + 1,600 Monochrome (Global)": {
+        "Eneba": "N/A"
+      },
+      "DTU Zenless Zone Zero 1,980 + 260 Monochrome (Global)": {
+        "Eneba": "N/A"
+      },
       "DTU Zenless Zone Zero All Pack Monochrome (Global)": {
         "Eneba": "N/A"
       }
@@ -594,7 +850,7 @@
       "Honkai: Star Rail 6,480 + 1,600 Oneiric Shard (Global)": {
         "Eneba": "N/A"
       },
-      "Honkai: Star Rail Express Supply Pass (Global)": {
+      "Honkai: Star Rail All Pack Oneiric Shard (Global)": {
         "Eneba": "N/A"
       }
     },
@@ -609,8 +865,8 @@
         "Eneba": "N/A"
       }
     },
-    "Perplexity AI": {
-      "Perplexity AI Pro Monthly (Global)": {
+    "CapCut": {
+      "CapCut Pro Subscription 1 Month Account (Global)": {
         "Eneba": "N/A"
       }
     },
