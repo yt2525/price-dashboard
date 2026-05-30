@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-30T09:05:10Z",
+  "generated_at": "2026-05-30T15:55:49Z",
   "prices": {
     "Genshin Impact": {
       "Genshin Impact 3,280 + 600 Crystals (Global)": {
-        "OG": 3.56,
+        "OG": 8.64,
         "G2G": 3.53,
         "ItemkuEN": 16.25
       },
       "Genshin Impact 1,980 + 260 Crystals (Global)": {
-        "OG": 8.64,
-        "G2G": 8.64,
+        "OG": 3.53,
+        "G2G": 3.53,
         "ItemkuEN": "N/A"
       },
       "Genshin Impact 9,760 + 2,200 Crystals (Global)": {
@@ -30,8 +30,8 @@
     },
     "Wuthering Waves": {
       "60 Lunites": {
-        "OG": 222.72,
-        "G2G": 8.64,
+        "OG": 3.53,
+        "G2G": 3.53,
         "ItemkuEN": 0.78
       },
       "300 + 30 Lunites": {
@@ -46,7 +46,7 @@
       },
       "1,980 + 260 Lunites": {
         "OG": 3.53,
-        "G2G": 8.64,
+        "G2G": 3.53,
         "ItemkuEN": 1.0
       },
       "3,280 + 600 Lunites": {
@@ -98,13 +98,13 @@
       },
       "Rewarble EUR20 Gift Cards": {
         "OG": "N/A",
-        "G2G": "N/A",
+        "G2G": 3.53,
         "Seagm": 21.19,
         "ItemkuEN": 1.05
       },
       "Rewarble EUR10 Gift Cards": {
         "OG": "N/A",
-        "G2G": "N/A",
+        "G2G": 3.53,
         "Seagm": 10.59,
         "ItemkuEN": 1.05
       },
@@ -175,12 +175,12 @@
       "CashtoCode eVouchers USD 100 (Global)": {
         "OG": "N/A",
         "Seagm": 104.77,
-        "ItemkuEN": "N/A"
+        "ItemkuEN": 1.0
       },
       "CashtoCode eVouchers USD 50 (Global)": {
         "OG": "N/A",
         "Seagm": 52.39,
-        "ItemkuEN": "N/A"
+        "ItemkuEN": 1.0
       },
       "CashtoCode eVouchers USD 25 (Global)": {
         "OG": "N/A",
@@ -292,6 +292,118 @@
         "Seagm": 110.74
       }
     },
+    "PlayStation": {
+      "PlayStation™Store GBP 20 Gift Cards (UK)": {
+        "OG": 50.0,
+        "Seagm": 21.32,
+        "Codashop": "N/A"
+      },
+      "PlayStation™Store USD250 Gift Cards (US)": {
+        "OG": "N/A",
+        "Seagm": "N/A",
+        "Codashop": "N/A"
+      },
+      "PlayStation™Store USD200 Gift Cards (US)": {
+        "OG": "N/A",
+        "Seagm": "N/A",
+        "Codashop": "N/A"
+      },
+      "PlayStation™Store USD150 Gift Cards (US)": {
+        "OG": "N/A",
+        "Seagm": "N/A",
+        "Codashop": "N/A"
+      },
+      "PlayStation™Store USD100 Gift Cards (US)": {
+        "OG": "N/A",
+        "Seagm": "N/A",
+        "Codashop": 100.0
+      },
+      "PlayStation™Store USD75 Gift Cards (US)": {
+        "OG": "N/A",
+        "Seagm": "N/A",
+        "Codashop": 75.0
+      },
+      "PlayStation™Store USD50 Gift Cards (US)": {
+        "OG": "N/A",
+        "Seagm": "N/A",
+        "Codashop": 50.0
+      },
+      "PlayStation™Store USD25 Gift Cards (US)": {
+        "OG": "N/A",
+        "Seagm": "N/A",
+        "Codashop": 25.0
+      },
+      "PlayStation™Store GBP 100 Gift Cards (UK)": {
+        "OG": "N/A",
+        "Seagm": "N/A",
+        "Codashop": 100.0
+      },
+      "PlayStation™Store GBP 50 Gift Cards (UK)": {
+        "OG": "N/A",
+        "Seagm": "N/A",
+        "Codashop": 50.0
+      },
+      "PlayStation™Store USD 200 Gift Cards (AE)": {
+        "OG": "N/A",
+        "Seagm": "N/A",
+        "Codashop": "N/A"
+      },
+      "PlayStation™Store USD 100 Gift Cards (AE)": {
+        "OG": "N/A",
+        "Seagm": "N/A",
+        "Codashop": 100.0
+      },
+      "PlayStation™Store USD 50 Gift Cards (AE)": {
+        "OG": "N/A",
+        "Seagm": "N/A",
+        "Codashop": 50.0
+      },
+      "PlayStation™Store MYR 200 Gift Cards (MY)": {
+        "OG": "N/A",
+        "Seagm": "N/A",
+        "Codashop": "N/A"
+      },
+      "PlayStation™Store MYR 100 Gift Cards (MY)": {
+        "OG": "N/A",
+        "Seagm": "N/A",
+        "Codashop": 100.0
+      },
+      "PlayStation™Store MYR 50 Gift Cards (MY)": {
+        "OG": "N/A",
+        "Seagm": "N/A",
+        "Codashop": 50.0
+      },
+      "PlayStation™Store EUR 250 Gift Cards (DE)": {
+        "OG": "N/A",
+        "Seagm": "N/A",
+        "Codashop": "N/A"
+      },
+      "PlayStation™Store EUR 200 Gift Cards (DE)": {
+        "OG": "N/A",
+        "Seagm": "N/A",
+        "Codashop": "N/A"
+      },
+      "PlayStation™Store EUR 150 Gift Cards (DE)": {
+        "OG": "N/A",
+        "Seagm": "N/A",
+        "Codashop": "N/A"
+      },
+      "PlayStation™Store USD 200 Gift Cards (QA)": {
+        "OG": "N/A",
+        "Seagm": "N/A",
+        "Codashop": "N/A"
+      },
+      "PlayStation™Store USD 100 Gift Cards (QA)": {
+        "OG": "N/A",
+        "Seagm": "N/A",
+        "Codashop": 100.0
+      },
+      "PlayStation™Store USD 50 Gift Cards (QA)": {
+        "OG": "N/A",
+        "Seagm": "N/A",
+        "Codashop": 50.0
+      }
+    },
     "MINT": {
       "MINT Prepaid Card USD300 (Global)": {
         "OG": 3.53
@@ -329,16 +441,16 @@
         "OG": 3.53
       },
       "Gift Me Crypto EUR10 (EU)": {
-        "OG": 3.53
+        "OG": "N/A"
       },
       "Gift Me Crypto USD200 (US)": {
-        "OG": 3.53
+        "OG": "N/A"
       },
       "Gift Me Crypto USD100 (US)": {
-        "OG": 3.53
+        "OG": "N/A"
       },
       "Gift Me Crypto USD50 (US)": {
-        "OG": 3.53
+        "OG": "N/A"
       },
       "Gift Me Crypto USD20 (US)": {
         "OG": "N/A"
@@ -369,15 +481,15 @@
     },
     "RBL": {
       "Roblox Game Card USD 50 (US)": {
-        "Kinguin": 64.97,
+        "Kinguin": 65.1,
         "ItemkuEN": 6.5
       },
       "Roblox Game Card USD 25 (US)": {
-        "Kinguin": 23.5,
+        "Kinguin": 23.55,
         "ItemkuEN": 6.5
       },
       "Roblox Game Card USD 10 (US)": {
-        "Kinguin": 9.61,
+        "Kinguin": 9.63,
         "ItemkuEN": 6.5
       },
       "Roblox Game Card USD 200 (US)": {
@@ -603,96 +715,6 @@
         "Seagm": "N/A"
       }
     },
-    "PlayStation": {
-      "PlayStation™Store USD250 Gift Cards (US)": {
-        "Seagm": 231.25,
-        "Codashop": "N/A"
-      },
-      "PlayStation™Store USD200 Gift Cards (US)": {
-        "Seagm": 185.0,
-        "Codashop": "N/A"
-      },
-      "PlayStation™Store USD150 Gift Cards (US)": {
-        "Seagm": 138.75,
-        "Codashop": "N/A"
-      },
-      "PlayStation™Store USD100 Gift Cards (US)": {
-        "Seagm": 91.5,
-        "Codashop": 100.0
-      },
-      "PlayStation™Store USD75 Gift Cards (US)": {
-        "Seagm": 68.63,
-        "Codashop": 75.0
-      },
-      "PlayStation™Store USD50 Gift Cards (US)": {
-        "Seagm": 45.75,
-        "Codashop": 50.0
-      },
-      "PlayStation™Store USD25 Gift Cards (US)": {
-        "Seagm": 22.88,
-        "Codashop": 25.0
-      },
-      "PlayStation™Store GBP 100 Gift Cards (UK)": {
-        "Seagm": 91.5,
-        "Codashop": 100.0
-      },
-      "PlayStation™Store GBP 50 Gift Cards (UK)": {
-        "Seagm": 45.75,
-        "Codashop": 50.0
-      },
-      "PlayStation™Store GBP 20 Gift Cards (UK)": {
-        "Seagm": 21.32,
-        "Codashop": "N/A"
-      },
-      "PlayStation™Store USD 200 Gift Cards (AE)": {
-        "Seagm": 185.0,
-        "Codashop": "N/A"
-      },
-      "PlayStation™Store USD 100 Gift Cards (AE)": {
-        "Seagm": 91.5,
-        "Codashop": 100.0
-      },
-      "PlayStation™Store USD 50 Gift Cards (AE)": {
-        "Seagm": 45.75,
-        "Codashop": 50.0
-      },
-      "PlayStation™Store MYR 200 Gift Cards (MY)": {
-        "Seagm": 185.0,
-        "Codashop": "N/A"
-      },
-      "PlayStation™Store MYR 100 Gift Cards (MY)": {
-        "Seagm": 91.5,
-        "Codashop": 100.0
-      },
-      "PlayStation™Store MYR 50 Gift Cards (MY)": {
-        "Seagm": 45.75,
-        "Codashop": 50.0
-      },
-      "PlayStation™Store EUR 250 Gift Cards (DE)": {
-        "Seagm": 231.25,
-        "Codashop": "N/A"
-      },
-      "PlayStation™Store EUR 200 Gift Cards (DE)": {
-        "Seagm": 185.0,
-        "Codashop": "N/A"
-      },
-      "PlayStation™Store EUR 150 Gift Cards (DE)": {
-        "Seagm": 138.75,
-        "Codashop": "N/A"
-      },
-      "PlayStation™Store USD 200 Gift Cards (QA)": {
-        "Seagm": 185.0,
-        "Codashop": "N/A"
-      },
-      "PlayStation™Store USD 100 Gift Cards (QA)": {
-        "Seagm": 91.5,
-        "Codashop": 100.0
-      },
-      "PlayStation™Store USD 50 Gift Cards (QA)": {
-        "Seagm": 45.75,
-        "Codashop": 50.0
-      }
-    },
     "Amazon": {
       "Amazon Gift Card USD 25 (US)": {
         "Seagm": 24.75
@@ -727,7 +749,7 @@
     },
     "MyCard": {
       "MyCard 50 Points (TW)": {
-        "Seagm": 50.46
+        "Seagm": 50.45
       },
       "MyCard 10,000 Points (TW)": {
         "Seagm": "N/A"
