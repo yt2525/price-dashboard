@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-03T00:15:36Z",
+  "generated_at": "2026-06-03T20:00:37Z",
   "prices": {
     "Genshin Impact": {
       "Genshin Impact 3,280 + 600 Crystals (Global)": {
-        "OG": 3.56,
+        "OG": 8.64,
         "G2G": 7827.53,
         "ItemkuEN": 16.25
       },
       "Genshin Impact 1,980 + 260 Crystals (Global)": {
-        "OG": 8.64,
-        "G2G": 8.64,
+        "OG": 3.53,
+        "G2G": 7827.53,
         "ItemkuEN": "N/A"
       },
       "Genshin Impact 9,760 + 2,200 Crystals (Global)": {
@@ -28,37 +28,11 @@
         "ItemkuEN": "N/A"
       }
     },
-    "Valorant": {
-      "Valorant 475 Points (Global)": {
-        "OG": 23.48,
-        "G2G": 7827.53
-      },
-      "Valorant 11,000 Points  (Global)": {
-        "OG": "N/A",
-        "G2G": "N/A"
-      },
-      "Valorant 5,350 Points (Global)": {
-        "OG": "N/A",
-        "G2G": "N/A"
-      },
-      "Valorant 3,650 Points (Global)": {
-        "OG": "N/A",
-        "G2G": "N/A"
-      },
-      "Valorant 2,050 Points (Global)": {
-        "OG": "N/A",
-        "G2G": "N/A"
-      },
-      "Valorant 1,000 Points (Global)": {
-        "OG": "N/A",
-        "G2G": "N/A"
-      }
-    },
     "Wuthering Waves": {
       "60 Lunites": {
         "OG": 7827.53,
         "G2G": 8.64,
-        "ItemkuEN": 0.78
+        "ItemkuEN": 0.82
       },
       "300 + 30 Lunites": {
         "OG": 7827.53,
@@ -72,7 +46,7 @@
       },
       "1,980 + 260 Lunites": {
         "OG": 7827.53,
-        "G2G": 8.64,
+        "G2G": 7827.53,
         "ItemkuEN": 1.0
       },
       "3,280 + 600 Lunites": {
@@ -132,7 +106,7 @@
         "OG": 7827.53,
         "G2G": 7827.53,
         "Seagm": 10.59,
-        "ItemkuEN": "N/A"
+        "ItemkuEN": 1.05
       },
       "Rewarble Gift Cards USD 100 (Global)": {
         "OG": "N/A",
@@ -348,10 +322,10 @@
         "OG": 7827.53
       },
       "Gift Me Crypto USD200 (US)": {
-        "OG": 7827.53
+        "OG": "N/A"
       },
       "Gift Me Crypto USD100 (US)": {
-        "OG": 7827.53
+        "OG": "N/A"
       },
       "Gift Me Crypto USD50 (US)": {
         "OG": "N/A"
@@ -363,17 +337,37 @@
         "OG": "N/A"
       }
     },
+    "Valorant": {
+      "Valorant 475 Points (Global)": {
+        "G2G": 7827.53
+      },
+      "Valorant 11,000 Points  (Global)": {
+        "G2G": "N/A"
+      },
+      "Valorant 5,350 Points (Global)": {
+        "G2G": "N/A"
+      },
+      "Valorant 3,650 Points (Global)": {
+        "G2G": "N/A"
+      },
+      "Valorant 2,050 Points (Global)": {
+        "G2G": "N/A"
+      },
+      "Valorant 1,000 Points (Global)": {
+        "G2G": "N/A"
+      }
+    },
     "RBL": {
       "Roblox Game Card USD 50 (US)": {
-        "Kinguin": 66.94,
+        "Kinguin": 67.1,
         "ItemkuEN": 6.5
       },
       "Roblox Game Card USD 25 (US)": {
-        "Kinguin": 24.13,
+        "Kinguin": 24.14,
         "ItemkuEN": 6.5
       },
       "Roblox Game Card USD 10 (US)": {
-        "Kinguin": 9.9,
+        "Kinguin": 9.91,
         "ItemkuEN": 6.5
       },
       "Roblox Game Card USD 200 (US)": {
@@ -417,7 +411,7 @@
       },
       "Spotify Gift Card USD 10": {
         "Seagm": 10.0,
-        "LapakGaming": 10.51,
+        "LapakGaming": 10.53,
         "ItemkuEN": 1.0
       },
       "Spotify Gift Card USD 99": {
@@ -697,7 +691,7 @@
         "Seagm": 20.1
       },
       "Amazon Gift Card USD 10 (US)": {
-        "Seagm": 10.05
+        "Seagm": "N/A"
       },
       "Amazon Gift Card USD 1000 (US)": {
         "Seagm": "N/A"
@@ -723,7 +717,7 @@
     },
     "MyCard": {
       "MyCard 50 Points (TW)": {
-        "Seagm": 50.38
+        "Seagm": 50.42
       },
       "MyCard 10,000 Points (TW)": {
         "Seagm": "N/A"
