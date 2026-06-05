@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-06-04T19:49:44Z",
+  "generated_at": "2026-06-05T11:53:24Z",
   "prices": {
     "Genshin Impact": {
-      "Genshin Impact 3,280 + 600 Crystals (Global)": {
-        "OG": 8.64,
-        "G2G": 7827.53,
-        "ItemkuEN": 16.25
-      },
       "Genshin Impact 1,980 + 260 Crystals (Global)": {
-        "OG": 3.53,
+        "OG": 8.64,
         "G2G": 8.64,
         "ItemkuEN": "N/A"
       },
@@ -22,6 +17,11 @@
         "G2G": "N/A",
         "ItemkuEN": "N/A"
       },
+      "Genshin Impact 3,280 + 600 Crystals (Global)": {
+        "OG": "N/A",
+        "G2G": 7827.53,
+        "ItemkuEN": 16.25
+      },
       "Genshin Impact All Pack Genesis Crystals (Global)": {
         "OG": "N/A",
         "G2G": "N/A",
@@ -30,7 +30,7 @@
     },
     "Wuthering Waves": {
       "60 Lunites": {
-        "OG": 23.62,
+        "OG": 7827.53,
         "G2G": 8.64,
         "ItemkuEN": 0.81
       },
@@ -110,7 +110,7 @@
       },
       "Rewarble EUR10 Gift Cards": {
         "OG": 7827.53,
-        "G2G": 7827.53,
+        "G2G": "N/A",
         "Seagm": 10.59,
         "Unipin": 9.94,
         "ItemkuEN": 1.05
@@ -127,7 +127,7 @@
         "G2G": "N/A",
         "Seagm": 63.56,
         "Unipin": "N/A",
-        "ItemkuEN": 4.64
+        "ItemkuEN": 3.71
       },
       "Rewarble Gift Cards USD 50 (Global)": {
         "OG": "N/A",
@@ -162,14 +162,14 @@
         "G2G": "N/A",
         "Seagm": 10.59,
         "Unipin": 9.94,
-        "ItemkuEN": 6.52
+        "ItemkuEN": 6.36
       }
     },
     "CashtoCode": {
       "CashtoCode eVouchers AUD200 (AU)": {
         "OG": 7827.53,
         "Seagm": 209.53,
-        "ItemkuEN": "N/A"
+        "ItemkuEN": 1.0
       },
       "CashtoCode eVouchers AUD100 (AU)": {
         "OG": 7827.53,
@@ -278,7 +278,7 @@
       },
       "Steam Wallet Code USD100 (US)": {
         "OG": "N/A",
-        "Seagm": 110.74,
+        "Seagm": 109.61,
         "Unipin": 110.16
       },
       "Steam Wallet Code USD25 (US)": {
@@ -298,7 +298,7 @@
       },
       "Steam Wallet Code RM100 (MY)": {
         "OG": "N/A",
-        "Seagm": 110.74,
+        "Seagm": 109.61,
         "Unipin": 110.16
       },
       "Steam Wallet Code RM80 (MY)": {
@@ -318,7 +318,7 @@
       },
       "Steam Wallet Card QAR 100": {
         "OG": "N/A",
-        "Seagm": 110.74,
+        "Seagm": 109.61,
         "Unipin": 110.16
       }
     },
@@ -359,7 +359,7 @@
         "OG": 7827.53
       },
       "Gift Me Crypto EUR10 (EU)": {
-        "OG": "N/A"
+        "OG": 7827.53
       },
       "Gift Me Crypto USD200 (US)": {
         "OG": "N/A"
@@ -399,17 +399,17 @@
     },
     "RBL": {
       "Roblox Game Card USD 50 (US)": {
-        "Kinguin": 66.79,
+        "Kinguin": 66.82,
         "Unipin": 49.68,
         "ItemkuEN": 1.0
       },
       "Roblox Game Card USD 25 (US)": {
-        "Kinguin": 24.07,
+        "Kinguin": 24.12,
         "Unipin": 24.84,
         "ItemkuEN": 1.0
       },
       "Roblox Game Card USD 10 (US)": {
-        "Kinguin": 9.87,
+        "Kinguin": 9.88,
         "Unipin": 9.94,
         "ItemkuEN": 1.0
       },
@@ -790,7 +790,7 @@
     },
     "MyCard": {
       "MyCard 50 Points (TW)": {
-        "Seagm": 50.42
+        "Seagm": 50.37
       },
       "MyCard 10,000 Points (TW)": {
         "Seagm": "N/A"
