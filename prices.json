@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T10:15:29Z",
+  "generated_at": "2026-06-07T16:55:29Z",
   "prices": {
     "Genshin Impact": {
       "Genshin Impact 3,280 + 600 Crystals (Global)": {
@@ -28,11 +28,37 @@
         "ItemkuEN": "N/A"
       }
     },
+    "Valorant": {
+      "Valorant 475 Points (Global)": {
+        "OG": 23.48,
+        "G2G": 213.19
+      },
+      "Valorant 11,000 Points  (Global)": {
+        "OG": "N/A",
+        "G2G": "N/A"
+      },
+      "Valorant 5,350 Points (Global)": {
+        "OG": "N/A",
+        "G2G": "N/A"
+      },
+      "Valorant 3,650 Points (Global)": {
+        "OG": "N/A",
+        "G2G": "N/A"
+      },
+      "Valorant 2,050 Points (Global)": {
+        "OG": "N/A",
+        "G2G": "N/A"
+      },
+      "Valorant 1,000 Points (Global)": {
+        "OG": "N/A",
+        "G2G": "N/A"
+      }
+    },
     "Wuthering Waves": {
       "60 Lunites": {
         "OG": 7827.53,
         "G2G": 8.65,
-        "ItemkuEN": 0.81
+        "ItemkuEN": 1.0
       },
       "300 + 30 Lunites": {
         "OG": 7827.53,
@@ -371,30 +397,10 @@
         "OG": 7827.53
       },
       "Gift Me Crypto USD20 (US)": {
-        "OG": 7827.53
+        "OG": "N/A"
       },
       "Gift Me Crypto USD10 (US)": {
         "OG": "N/A"
-      }
-    },
-    "Valorant": {
-      "Valorant 475 Points (Global)": {
-        "G2G": 7827.53
-      },
-      "Valorant 11,000 Points  (Global)": {
-        "G2G": "N/A"
-      },
-      "Valorant 5,350 Points (Global)": {
-        "G2G": "N/A"
-      },
-      "Valorant 3,650 Points (Global)": {
-        "G2G": "N/A"
-      },
-      "Valorant 2,050 Points (Global)": {
-        "G2G": "N/A"
-      },
-      "Valorant 1,000 Points (Global)": {
-        "G2G": "N/A"
       }
     },
     "RBL": {
@@ -409,7 +415,7 @@
         "ItemkuEN": 1.0
       },
       "Roblox Game Card USD 10 (US)": {
-        "Kinguin": 10.29,
+        "Kinguin": 9.98,
         "Unipin": 9.94,
         "ItemkuEN": 1.0
       },
@@ -790,7 +796,7 @@
     },
     "MyCard": {
       "MyCard 50 Points (TW)": {
-        "Seagm": 50.21
+        "Seagm": 50.22
       },
       "MyCard 10,000 Points (TW)": {
         "Seagm": "N/A"
