@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-06-13T10:15:18Z",
+  "generated_at": "2026-06-13T14:18:21Z",
   "prices": {
     "Genshin Impact": {
+      "Genshin Impact 3,280 + 600 Crystals (Global)": {
+        "OG": 8.65,
+        "G2G": 3.53,
+        "ItemkuEN": 16.25
+      },
       "Genshin Impact 1,980 + 260 Crystals (Global)": {
         "OG": 3.53,
         "G2G": 3.53,
@@ -16,11 +21,6 @@
         "OG": "N/A",
         "G2G": "N/A",
         "ItemkuEN": "N/A"
-      },
-      "Genshin Impact 3,280 + 600 Crystals (Global)": {
-        "OG": "N/A",
-        "G2G": 3.53,
-        "ItemkuEN": 16.25
       },
       "Genshin Impact All Pack Genesis Crystals (Global)": {
         "OG": "N/A",
@@ -169,17 +169,17 @@
       "CashtoCode eVouchers AUD200 (AU)": {
         "OG": 3.53,
         "Seagm": 209.53,
-        "ItemkuEN": "N/A"
+        "ItemkuEN": 1.0
       },
       "CashtoCode eVouchers AUD100 (AU)": {
         "OG": 3.53,
         "Seagm": 104.77,
-        "ItemkuEN": "N/A"
+        "ItemkuEN": 1.0
       },
       "CashtoCode eVouchers AUD50 (AU)": {
         "OG": 3.53,
         "Seagm": 52.39,
-        "ItemkuEN": "N/A"
+        "ItemkuEN": 1.0
       },
       "CashtoCode eVouchers USD 200 (Global)": {
         "OG": "N/A",
@@ -214,72 +214,89 @@
       "CashtoCode eVouchers JPY6,000 (JP)": {
         "OG": "N/A",
         "Seagm": "N/A",
-        "ItemkuEN": "N/A"
+        "ItemkuEN": 1.0
       }
     },
     "GASH": {
       "GASH 100 Points (HK)": {
-        "OG": 3.53
+        "OG": 3.53,
+        "ItemkuEN": "N/A"
       },
       "GASH 5000 Points (TW)": {
-        "OG": 3.53
+        "OG": 3.53,
+        "ItemkuEN": "N/A"
       },
       "GASH 3000 Points (TW)": {
-        "OG": 3.53
+        "OG": 3.53,
+        "ItemkuEN": "N/A"
       },
       "GASH 1000 Points (TW)": {
-        "OG": 3.53
+        "OG": 3.53,
+        "ItemkuEN": "N/A"
       },
       "GASH 5,000 Points (HK)": {
-        "OG": "N/A"
+        "OG": "N/A",
+        "ItemkuEN": 1.0
       },
       "GASH 3,000 Points (HK)": {
-        "OG": "N/A"
+        "OG": "N/A",
+        "ItemkuEN": 1.0
       },
       "GASH 1,000 Points (HK)": {
-        "OG": "N/A"
+        "OG": "N/A",
+        "ItemkuEN": "N/A"
       }
     },
     "Steam": {
+      "Steam Wallet Code USD50 (US)": {
+        "OG": 100.0,
+        "Seagm": 50.83,
+        "Unipin": 55.08
+      },
+      "Steam Wallet Code USD20 (US)": {
+        "OG": 50.0,
+        "Seagm": 20.93,
+        "Unipin": "N/A"
+      },
+      "Steam Wallet Code USD10 (US)": {
+        "OG": 20.0,
+        "Seagm": 10.75,
+        "Unipin": 11.02
+      },
       "Steam Wallet Code USD5 (US)": {
         "OG": 5.09,
         "Seagm": 5.38,
         "Unipin": 5.51
+      },
+      "Steam Wallet Code EUR 20 (EU)": {
+        "OG": 50.0,
+        "Seagm": 20.93,
+        "Unipin": "N/A"
+      },
+      "Steam Wallet Code RM50 (MY)": {
+        "OG": 100.0,
+        "Seagm": 50.83,
+        "Unipin": 55.08
+      },
+      "Steam Wallet Code RM10 (MY)": {
+        "OG": 20.0,
+        "Seagm": 10.75,
+        "Unipin": 11.02
       },
       "Steam Wallet Code USD100 (US)": {
         "OG": "N/A",
         "Seagm": 109.61,
         "Unipin": 110.16
       },
-      "Steam Wallet Code USD50 (US)": {
-        "OG": "N/A",
-        "Seagm": 50.83,
-        "Unipin": 55.08
-      },
       "Steam Wallet Code USD25 (US)": {
         "OG": "N/A",
         "Seagm": 26.4,
         "Unipin": 27.54
       },
-      "Steam Wallet Code USD20 (US)": {
-        "OG": "N/A",
-        "Seagm": 20.93,
-        "Unipin": "N/A"
-      },
-      "Steam Wallet Code USD10 (US)": {
-        "OG": "N/A",
-        "Seagm": 10.75,
-        "Unipin": 11.02
-      },
       "Steam Wallet Code EUR 30 (EU)": {
         "OG": "N/A",
         "Seagm": 30.5,
         "Unipin": 33.05
-      },
-      "Steam Wallet Code EUR 20 (EU)": {
-        "OG": "N/A",
-        "Seagm": 20.93,
-        "Unipin": "N/A"
       },
       "Steam Wallet Code RM200 (MY)": {
         "OG": "N/A",
@@ -295,16 +312,6 @@
         "OG": "N/A",
         "Seagm": "N/A",
         "Unipin": "N/A"
-      },
-      "Steam Wallet Code RM50 (MY)": {
-        "OG": "N/A",
-        "Seagm": 50.83,
-        "Unipin": 55.08
-      },
-      "Steam Wallet Code RM10 (MY)": {
-        "OG": "N/A",
-        "Seagm": 10.75,
-        "Unipin": 11.02
       },
       "Steam Wallet Card QAR 400": {
         "OG": "N/A",
@@ -365,7 +372,7 @@
         "OG": 3.53
       },
       "Gift Me Crypto USD100 (US)": {
-        "OG": "N/A"
+        "OG": 3.53
       },
       "Gift Me Crypto USD50 (US)": {
         "OG": "N/A"
