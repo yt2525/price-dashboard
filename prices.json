@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-15T05:14:25Z",
+  "generated_at": "2026-06-15T12:35:17Z",
   "prices": {
     "Genshin Impact": {
       "Genshin Impact 1,980 + 260 Crystals (Global)": {
-        "OG": 8.65,
+        "OG": 3.53,
         "G2G": 3.53,
         "ItemkuEN": "N/A"
       },
@@ -104,7 +104,7 @@
       },
       "Rewarble EUR10 Gift Cards": {
         "OG": "N/A",
-        "G2G": "N/A",
+        "G2G": 3.53,
         "Unipin": 9.94,
         "ItemkuEN": 1.05
       },
@@ -186,7 +186,7 @@
       },
       "CashtoCode eVouchers JPY12,000 (JP)": {
         "OG": "N/A",
-        "ItemkuEN": "N/A"
+        "ItemkuEN": 1.0
       },
       "CashtoCode eVouchers JPY6,000 (JP)": {
         "OG": "N/A",
@@ -217,37 +217,45 @@
       }
     },
     "Steam": {
+      "Steam Wallet Code USD50 (US)": {
+        "OG": 100.0,
+        "Unipin": 55.08
+      },
+      "Steam Wallet Code USD20 (US)": {
+        "OG": 50.0,
+        "Unipin": "N/A"
+      },
+      "Steam Wallet Code USD10 (US)": {
+        "OG": 20.0,
+        "Unipin": 11.02
+      },
       "Steam Wallet Code USD5 (US)": {
         "OG": 5.09,
         "Unipin": 5.51
+      },
+      "Steam Wallet Code EUR 20 (EU)": {
+        "OG": 50.0,
+        "Unipin": "N/A"
+      },
+      "Steam Wallet Code RM50 (MY)": {
+        "OG": 100.0,
+        "Unipin": 55.08
+      },
+      "Steam Wallet Code RM10 (MY)": {
+        "OG": 20.0,
+        "Unipin": 11.02
       },
       "Steam Wallet Code USD100 (US)": {
         "OG": "N/A",
         "Unipin": 110.16
       },
-      "Steam Wallet Code USD50 (US)": {
-        "OG": "N/A",
-        "Unipin": 55.08
-      },
       "Steam Wallet Code USD25 (US)": {
         "OG": "N/A",
         "Unipin": 27.54
       },
-      "Steam Wallet Code USD20 (US)": {
-        "OG": "N/A",
-        "Unipin": "N/A"
-      },
-      "Steam Wallet Code USD10 (US)": {
-        "OG": "N/A",
-        "Unipin": 11.02
-      },
       "Steam Wallet Code EUR 30 (EU)": {
         "OG": "N/A",
         "Unipin": 33.05
-      },
-      "Steam Wallet Code EUR 20 (EU)": {
-        "OG": "N/A",
-        "Unipin": "N/A"
       },
       "Steam Wallet Code RM200 (MY)": {
         "OG": "N/A",
@@ -260,14 +268,6 @@
       "Steam Wallet Code RM80 (MY)": {
         "OG": "N/A",
         "Unipin": "N/A"
-      },
-      "Steam Wallet Code RM50 (MY)": {
-        "OG": "N/A",
-        "Unipin": 55.08
-      },
-      "Steam Wallet Code RM10 (MY)": {
-        "OG": "N/A",
-        "Unipin": 11.02
       },
       "Steam Wallet Card QAR 400": {
         "OG": "N/A",
@@ -319,7 +319,7 @@
         "OG": 3.53
       },
       "Gift Me Crypto EUR10 (EU)": {
-        "OG": 3.53
+        "OG": "N/A"
       },
       "Gift Me Crypto USD200 (US)": {
         "OG": "N/A"
@@ -359,7 +359,7 @@
     },
     "RBL": {
       "Roblox Game Card USD 50 (US)": {
-        "Kinguin": 66.56,
+        "Kinguin": 66.59,
         "Unipin": 49.68,
         "ItemkuEN": 1.0
       },
@@ -412,65 +412,6 @@
         "Kinguin": "N/A",
         "Unipin": "N/A",
         "ItemkuEN": 1.0
-      }
-    },
-    "MyCard": {
-      "MyCard 50 Points (TW)": {
-        "Seagm": 50.36
-      },
-      "MyCard 10,000 Points (TW)": {
-        "Seagm": "N/A"
-      },
-      "MyCard 5,000 Points (TW)": {
-        "Seagm": "N/A"
-      },
-      "MyCard 3,290 Points (TW)": {
-        "Seagm": "N/A"
-      },
-      "MyCard 3,000 Points (TW)": {
-        "Seagm": "N/A"
-      },
-      "MyCard 2500 Points (TW)": {
-        "Seagm": "N/A"
-      },
-      "MyCard 2,000 Points (TW)": {
-        "Seagm": "N/A"
-      },
-      "MyCard 1690 Points (TW)": {
-        "Seagm": "N/A"
-      },
-      "MyCard 1490 Points (TW)": {
-        "Seagm": "N/A"
-      },
-      "MyCard 1150 Points (TW)": {
-        "Seagm": "N/A"
-      },
-      "MyCard 1,000 Points (TW)": {
-        "Seagm": "N/A"
-      },
-      "MyCard 750 Points (TW)": {
-        "Seagm": "N/A"
-      },
-      "MyCard 500 Points (TW)": {
-        "Seagm": "N/A"
-      },
-      "MyCard 400 Points (TW)": {
-        "Seagm": "N/A"
-      },
-      "MyCard 350 Points (TW)": {
-        "Seagm": "N/A"
-      },
-      "MyCard 170 Points (TW)": {
-        "Seagm": "N/A"
-      },
-      "MyCard 150 Points (TW)": {
-        "Seagm": "N/A"
-      },
-      "MyCard 90 Points (TW)": {
-        "Seagm": "N/A"
-      },
-      "MyCard 30 Points (TW)": {
-        "Seagm": "N/A"
       }
     },
     "PlayStation": {
