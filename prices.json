@@ -1,12 +1,7 @@
 {
-  "generated_at": "2026-06-15T21:13:45Z",
+  "generated_at": "2026-06-16T05:20:03Z",
   "prices": {
     "Genshin Impact": {
-      "Genshin Impact 3,280 + 600 Crystals (Global)": {
-        "OG": 3.58,
-        "G2G": 3.53,
-        "ItemkuEN": 16.25
-      },
       "Genshin Impact 1,980 + 260 Crystals (Global)": {
         "OG": 8.65,
         "G2G": 8.65,
@@ -22,46 +17,25 @@
         "G2G": "N/A",
         "ItemkuEN": "N/A"
       },
+      "Genshin Impact 3,280 + 600 Crystals (Global)": {
+        "OG": "N/A",
+        "G2G": 3.53,
+        "ItemkuEN": 16.25
+      },
       "Genshin Impact All Pack Genesis Crystals (Global)": {
         "OG": "N/A",
         "G2G": "N/A",
         "ItemkuEN": "N/A"
       }
     },
-    "Valorant": {
-      "Valorant 475 Points (Global)": {
-        "OG": 3.53,
-        "G2G": 3.53
-      },
-      "Valorant 11,000 Points  (Global)": {
-        "OG": "N/A",
-        "G2G": "N/A"
-      },
-      "Valorant 5,350 Points (Global)": {
-        "OG": "N/A",
-        "G2G": "N/A"
-      },
-      "Valorant 3,650 Points (Global)": {
-        "OG": "N/A",
-        "G2G": "N/A"
-      },
-      "Valorant 2,050 Points (Global)": {
-        "OG": "N/A",
-        "G2G": "N/A"
-      },
-      "Valorant 1,000 Points (Global)": {
-        "OG": "N/A",
-        "G2G": "N/A"
-      }
-    },
     "Wuthering Waves": {
       "60 Lunites": {
         "OG": 3.53,
-        "G2G": 3.53,
+        "G2G": 8.65,
         "ItemkuEN": 0.83
       },
       "300 + 30 Lunites": {
-        "OG": 3.53,
+        "OG": 23.48,
         "G2G": 3.53,
         "ItemkuEN": 1.0
       },
@@ -97,7 +71,7 @@
         "G2G": 3.53,
         "Seagm": 105.93,
         "Unipin": "N/A",
-        "ItemkuEN": "N/A"
+        "ItemkuEN": 1.05
       },
       "Rewarble EUR60 Gift Cards": {
         "OG": "N/A",
@@ -136,7 +110,7 @@
       },
       "Rewarble EUR10 Gift Cards": {
         "OG": "N/A",
-        "G2G": "N/A",
+        "G2G": 3.53,
         "Seagm": 10.59,
         "Unipin": 9.94,
         "ItemkuEN": 1.05
@@ -235,12 +209,12 @@
       "CashtoCode eVouchers JPY12,000 (JP)": {
         "OG": "N/A",
         "Seagm": "N/A",
-        "ItemkuEN": 1.0
+        "ItemkuEN": "N/A"
       },
       "CashtoCode eVouchers JPY6,000 (JP)": {
         "OG": "N/A",
         "Seagm": "N/A",
-        "ItemkuEN": 1.0
+        "ItemkuEN": "N/A"
       }
     },
     "GASH": {
@@ -385,7 +359,7 @@
         "OG": 3.53
       },
       "Gift Me Crypto EUR10 (EU)": {
-        "OG": 3.53
+        "OG": "N/A"
       },
       "Gift Me Crypto USD200 (US)": {
         "OG": "N/A"
@@ -403,9 +377,29 @@
         "OG": "N/A"
       }
     },
+    "Valorant": {
+      "Valorant 475 Points (Global)": {
+        "G2G": 3.53
+      },
+      "Valorant 11,000 Points  (Global)": {
+        "G2G": "N/A"
+      },
+      "Valorant 5,350 Points (Global)": {
+        "G2G": "N/A"
+      },
+      "Valorant 3,650 Points (Global)": {
+        "G2G": "N/A"
+      },
+      "Valorant 2,050 Points (Global)": {
+        "G2G": "N/A"
+      },
+      "Valorant 1,000 Points (Global)": {
+        "G2G": "N/A"
+      }
+    },
     "RBL": {
       "Roblox Game Card USD 50 (US)": {
-        "Kinguin": 66.73,
+        "Kinguin": 66.76,
         "Unipin": 49.68,
         "ItemkuEN": 1.0
       },
@@ -415,7 +409,7 @@
         "ItemkuEN": 1.0
       },
       "Roblox Game Card USD 10 (US)": {
-        "Kinguin": 9.84,
+        "Kinguin": 9.83,
         "Unipin": 9.94,
         "ItemkuEN": 1.0
       },
@@ -774,7 +768,7 @@
     },
     "MyCard": {
       "MyCard 50 Points (TW)": {
-        "Seagm": 50.31
+        "Seagm": 50.26
       },
       "MyCard 10,000 Points (TW)": {
         "Seagm": "N/A"
