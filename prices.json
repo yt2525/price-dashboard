@@ -1,32 +1,27 @@
 {
-  "generated_at": "2026-06-17T15:55:17Z",
+  "generated_at": "2026-06-17T20:25:36Z",
   "prices": {
     "Genshin Impact": {
       "Genshin Impact 1,980 + 260 Crystals (Global)": {
-        "OG": 8.65,
-        "ItemkuEN": "N/A"
+        "OG": 8.65
       },
       "Genshin Impact 9,760 + 2,200 Crystals (Global)": {
-        "OG": "N/A",
-        "ItemkuEN": "N/A"
+        "OG": "N/A"
       },
       "Genshin Impact 6,480 + 1,600 Crystals (Global)": {
-        "OG": "N/A",
-        "ItemkuEN": "N/A"
+        "OG": "N/A"
       },
       "Genshin Impact 3,280 + 600 Crystals (Global)": {
-        "OG": "N/A",
-        "ItemkuEN": 16.25
+        "OG": "N/A"
       },
       "Genshin Impact All Pack Genesis Crystals (Global)": {
-        "OG": "N/A",
-        "ItemkuEN": "N/A"
+        "OG": "N/A"
       }
     },
     "Wuthering Waves": {
       "60 Lunites": {
-        "OG": 8.65,
-        "ItemkuEN": 1.0
+        "OG": 3.53,
+        "ItemkuEN": 0.97
       },
       "300 + 30 Lunites": {
         "OG": 3.53,
@@ -351,63 +346,6 @@
         "OG": "N/A"
       }
     },
-    "RBL": {
-      "Roblox Game Card USD 50 (US)": {
-        "Kinguin": 67.04,
-        "Unipin": 49.68,
-        "ItemkuEN": 1.0
-      },
-      "Roblox Game Card USD 25 (US)": {
-        "Kinguin": 24.03,
-        "Unipin": 24.84,
-        "ItemkuEN": 1.0
-      },
-      "Roblox Game Card USD 10 (US)": {
-        "Kinguin": 9.86,
-        "Unipin": 9.94,
-        "ItemkuEN": 1.0
-      },
-      "Roblox Game Card USD 200 (US)": {
-        "Kinguin": "N/A",
-        "Unipin": "N/A",
-        "ItemkuEN": 1.0
-      },
-      "Roblox Game Card USD 100 (US)": {
-        "Kinguin": "N/A",
-        "Unipin": "N/A",
-        "ItemkuEN": 1.0
-      },
-      "Roblox 32,500 Rbx": {
-        "Kinguin": "N/A",
-        "Unipin": "N/A",
-        "ItemkuEN": 1.0
-      },
-      "Roblox 22,500 Rbx": {
-        "Kinguin": "N/A",
-        "Unipin": "N/A",
-        "ItemkuEN": 1.0
-      },
-      "Roblox 10,000 Rbx": {
-        "Kinguin": "N/A",
-        "Unipin": "N/A",
-        "ItemkuEN": 1.0
-      },
-      "Roblox 4,500 Rbx": {
-        "Kinguin": "N/A",
-        "Unipin": "N/A",
-        "ItemkuEN": 1.0
-      },
-      "Roblox 3,700 Rbx": {
-        "Kinguin": "N/A",
-        "Unipin": "N/A",
-        "ItemkuEN": 1.0
-      },
-      "Roblox 1,000 Rbx": {
-        "Kinguin": "N/A",
-        "Unipin": "N/A",
-        "ItemkuEN": 1.0
-      }
-    },
     "iTunes": {
       "Apple iTunes USD500 Gift Card (US)": {
         "Seagm": 485.0
@@ -722,7 +660,7 @@
     },
     "MyCard": {
       "MyCard 50 Points (TW)": {
-        "Seagm": 50.22
+        "Seagm": 50.14
       },
       "MyCard 10,000 Points (TW)": {
         "Seagm": "N/A"
@@ -794,6 +732,52 @@
       },
       "Spotify Gift Card USD 30": {
         "LapakGaming": "N/A",
+        "ItemkuEN": 1.0
+      }
+    },
+    "RBL": {
+      "Roblox Game Card USD 50 (US)": {
+        "Unipin": 49.68,
+        "ItemkuEN": 1.0
+      },
+      "Roblox Game Card USD 25 (US)": {
+        "Unipin": 24.84,
+        "ItemkuEN": 1.0
+      },
+      "Roblox Game Card USD 10 (US)": {
+        "Unipin": 9.94,
+        "ItemkuEN": 1.0
+      },
+      "Roblox Game Card USD 200 (US)": {
+        "Unipin": "N/A",
+        "ItemkuEN": 1.0
+      },
+      "Roblox Game Card USD 100 (US)": {
+        "Unipin": "N/A",
+        "ItemkuEN": 1.0
+      },
+      "Roblox 32,500 Rbx": {
+        "Unipin": "N/A",
+        "ItemkuEN": 1.0
+      },
+      "Roblox 22,500 Rbx": {
+        "Unipin": "N/A",
+        "ItemkuEN": 1.0
+      },
+      "Roblox 10,000 Rbx": {
+        "Unipin": "N/A",
+        "ItemkuEN": 1.0
+      },
+      "Roblox 4,500 Rbx": {
+        "Unipin": "N/A",
+        "ItemkuEN": 1.0
+      },
+      "Roblox 3,700 Rbx": {
+        "Unipin": "N/A",
+        "ItemkuEN": 1.0
+      },
+      "Roblox 1,000 Rbx": {
+        "Unipin": "N/A",
         "ItemkuEN": 1.0
       }
     },
