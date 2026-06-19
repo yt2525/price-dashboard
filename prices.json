@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-19T05:09:33Z",
+  "generated_at": "2026-06-19T10:52:02Z",
   "prices": {
     "Genshin Impact": {
       "Genshin Impact 3,280 + 600 Crystals (Global)": {
-        "OG": 3.58,
+        "OG": 8.65,
         "G2G": 3.53,
         "ItemkuEN": 16.25
       },
       "Genshin Impact 1,980 + 260 Crystals (Global)": {
-        "OG": 8.65,
-        "G2G": 8.65,
+        "OG": 3.53,
+        "G2G": 3.53,
         "ItemkuEN": "N/A"
       },
       "Genshin Impact 9,760 + 2,200 Crystals (Global)": {
@@ -31,7 +31,7 @@
     "Wuthering Waves": {
       "60 Lunites": {
         "OG": 3.53,
-        "G2G": 8.65,
+        "G2G": 3.53,
         "ItemkuEN": 1.0
       },
       "300 + 30 Lunites": {
@@ -99,18 +99,18 @@
         "G2G": 3.53,
         "Seagm": 26.48,
         "Unipin": 24.84,
-        "ItemkuEN": 1.05
+        "ItemkuEN": "N/A"
       },
       "Rewarble EUR20 Gift Cards": {
         "OG": "N/A",
         "G2G": 3.53,
         "Seagm": 21.19,
         "Unipin": "N/A",
-        "ItemkuEN": 1.05
+        "ItemkuEN": "N/A"
       },
       "Rewarble EUR10 Gift Cards": {
         "OG": "N/A",
-        "G2G": "N/A",
+        "G2G": 3.53,
         "Seagm": 10.59,
         "Unipin": 9.94,
         "ItemkuEN": "N/A"
@@ -352,10 +352,10 @@
         "OG": 3.53
       },
       "Gift Me Crypto USD200 (US)": {
-        "OG": 3.53
+        "OG": "N/A"
       },
       "Gift Me Crypto USD100 (US)": {
-        "OG": 3.53
+        "OG": "N/A"
       },
       "Gift Me Crypto USD50 (US)": {
         "OG": "N/A"
@@ -389,17 +389,17 @@
     },
     "RBL": {
       "Roblox Game Card USD 50 (US)": {
-        "Kinguin": 67.79,
+        "Kinguin": 66.84,
         "Unipin": 49.68,
         "ItemkuEN": 1.0
       },
       "Roblox Game Card USD 25 (US)": {
-        "Kinguin": 24.03,
+        "Kinguin": 23.75,
         "Unipin": 24.84,
         "ItemkuEN": 1.0
       },
       "Roblox Game Card USD 10 (US)": {
-        "Kinguin": 9.85,
+        "Kinguin": 9.74,
         "Unipin": 9.94,
         "ItemkuEN": 1.0
       },
@@ -758,7 +758,7 @@
     },
     "MyCard": {
       "MyCard 50 Points (TW)": {
-        "Seagm": 50.13
+        "Seagm": 50.08
       },
       "MyCard 10,000 Points (TW)": {
         "Seagm": "N/A"
