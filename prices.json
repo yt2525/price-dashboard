@@ -1,10 +1,15 @@
 {
-  "generated_at": "2026-06-20T09:30:38Z",
+  "generated_at": "2026-06-20T14:21:45Z",
   "prices": {
     "Genshin Impact": {
+      "Genshin Impact 3,280 + 600 Crystals (Global)": {
+        "OG": 3.58,
+        "G2G": 3.53,
+        "ItemkuEN": 16.25
+      },
       "Genshin Impact 1,980 + 260 Crystals (Global)": {
         "OG": 8.65,
-        "G2G": 8.65,
+        "G2G": 3.53,
         "ItemkuEN": "N/A"
       },
       "Genshin Impact 9,760 + 2,200 Crystals (Global)": {
@@ -17,11 +22,6 @@
         "G2G": "N/A",
         "ItemkuEN": "N/A"
       },
-      "Genshin Impact 3,280 + 600 Crystals (Global)": {
-        "OG": "N/A",
-        "G2G": 3.53,
-        "ItemkuEN": 16.25
-      },
       "Genshin Impact All Pack Genesis Crystals (Global)": {
         "OG": "N/A",
         "G2G": "N/A",
@@ -30,8 +30,8 @@
     },
     "Wuthering Waves": {
       "60 Lunites": {
-        "OG": 23.62,
-        "G2G": 8.65,
+        "OG": 23.5,
+        "G2G": 3.53,
         "ItemkuEN": 1.0
       },
       "300 + 30 Lunites": {
@@ -46,7 +46,7 @@
       },
       "1,980 + 260 Lunites": {
         "OG": 3.53,
-        "G2G": 8.65,
+        "G2G": 3.53,
         "ItemkuEN": 1.0
       },
       "3,280 + 600 Lunites": {
@@ -71,28 +71,28 @@
         "G2G": 3.53,
         "Seagm": 105.93,
         "Unipin": "N/A",
-        "ItemkuEN": 1.05
+        "ItemkuEN": "N/A"
       },
       "Rewarble EUR60 Gift Cards": {
         "OG": "N/A",
         "G2G": 3.53,
         "Seagm": 63.56,
         "Unipin": "N/A",
-        "ItemkuEN": 1.05
+        "ItemkuEN": "N/A"
       },
       "Rewarble EUR50 Gift Cards": {
         "OG": "N/A",
         "G2G": 3.53,
         "Seagm": 52.97,
         "Unipin": 49.68,
-        "ItemkuEN": 1.05
+        "ItemkuEN": "N/A"
       },
       "Rewarble EUR30 Gift Cards": {
         "OG": "N/A",
         "G2G": 3.53,
         "Seagm": 31.78,
         "Unipin": "N/A",
-        "ItemkuEN": 1.05
+        "ItemkuEN": "N/A"
       },
       "Rewarble EUR25 Gift Cards": {
         "OG": "N/A",
@@ -110,7 +110,7 @@
       },
       "Rewarble EUR10 Gift Cards": {
         "OG": "N/A",
-        "G2G": "N/A",
+        "G2G": 3.53,
         "Seagm": 10.59,
         "Unipin": 9.94,
         "ItemkuEN": "N/A"
@@ -358,7 +358,7 @@
         "OG": 3.53
       },
       "Gift Me Crypto USD50 (US)": {
-        "OG": 3.53
+        "OG": "N/A"
       },
       "Gift Me Crypto USD20 (US)": {
         "OG": "N/A"
@@ -389,18 +389,13 @@
     },
     "RBL": {
       "Roblox Game Card USD 50 (US)": {
-        "Kinguin": 66.78,
+        "Kinguin": 66.82,
         "Unipin": 49.68,
         "ItemkuEN": 1.0
       },
       "Roblox Game Card USD 25 (US)": {
-        "Kinguin": 23.75,
+        "Kinguin": 23.77,
         "Unipin": 24.84,
-        "ItemkuEN": 1.0
-      },
-      "Roblox Game Card USD 10 (US)": {
-        "Kinguin": 9.87,
-        "Unipin": 9.94,
         "ItemkuEN": 1.0
       },
       "Roblox Game Card USD 200 (US)": {
@@ -411,6 +406,11 @@
       "Roblox Game Card USD 100 (US)": {
         "Kinguin": "N/A",
         "Unipin": "N/A",
+        "ItemkuEN": 1.0
+      },
+      "Roblox Game Card USD 10 (US)": {
+        "Kinguin": "N/A",
+        "Unipin": 9.94,
         "ItemkuEN": 1.0
       },
       "Roblox 32,500 Rbx": {
@@ -726,7 +726,7 @@
     },
     "Amazon": {
       "Amazon Gift Card USD 25 (US)": {
-        "Seagm": 24.75
+        "Seagm": "N/A"
       },
       "Amazon Gift Card USD 20 (US)": {
         "Seagm": 20.1
