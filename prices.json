@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-23T09:58:17Z",
+  "generated_at": "2026-06-23T15:17:59Z",
   "prices": {
     "Genshin Impact": {
       "Genshin Impact 1,980 + 260 Crystals (Global)": {
-        "OG": 8.66,
-        "G2G": 8.66,
+        "OG": 3.53,
+        "G2G": 3.53,
         "ItemkuEN": "N/A"
       },
       "Genshin Impact 9,760 + 2,200 Crystals (Global)": {
@@ -32,7 +32,7 @@
       "60 Lunites": {
         "OG": 3.53,
         "G2G": 8.66,
-        "ItemkuEN": 1.0
+        "ItemkuEN": 0.87
       },
       "300 + 30 Lunites": {
         "OG": 3.53,
@@ -358,10 +358,10 @@
         "OG": 3.53
       },
       "Gift Me Crypto USD50 (US)": {
-        "OG": 3.53
+        "OG": "N/A"
       },
       "Gift Me Crypto USD20 (US)": {
-        "OG": 3.53
+        "OG": "N/A"
       },
       "Gift Me Crypto USD10 (US)": {
         "OG": "N/A"
@@ -389,7 +389,7 @@
     },
     "RBL": {
       "Roblox Game Card USD 50 (US)": {
-        "Kinguin": 67.08,
+        "Kinguin": 67.2,
         "Unipin": 49.68,
         "ItemkuEN": 1.0
       },
@@ -399,7 +399,7 @@
         "ItemkuEN": 1.0
       },
       "Roblox Game Card USD 10 (US)": {
-        "Kinguin": 9.92,
+        "Kinguin": 9.95,
         "Unipin": 9.94,
         "ItemkuEN": 1.0
       },
@@ -722,6 +722,97 @@
         "Seagm": 45.75,
         "Codashop": 50.0,
         "Unipin": 49.68
+      }
+    },
+    "Amazon": {
+      "Amazon Gift Card USD 25 (US)": {
+        "Seagm": 25.25
+      },
+      "Amazon Gift Card USD 20 (US)": {
+        "Seagm": 20.1
+      },
+      "Amazon Gift Card USD 10 (US)": {
+        "Seagm": 10.1
+      },
+      "Amazon Gift Card USD 1000 (US)": {
+        "Seagm": "N/A"
+      },
+      "Amazon Gift Card USD 500 (US)": {
+        "Seagm": "N/A"
+      },
+      "Amazon Gift Card USD 150 (US)": {
+        "Seagm": "N/A"
+      },
+      "Amazon Gift Card USD 75 (US)": {
+        "Seagm": "N/A"
+      },
+      "Amazon Gift Card USD 35 (US)": {
+        "Seagm": "N/A"
+      },
+      "Amazon Gift Card USD 30 (US)": {
+        "Seagm": "N/A"
+      },
+      "Amazon Gift Card USD 15 (US)": {
+        "Seagm": "N/A"
+      }
+    },
+    "MyCard": {
+      "MyCard 50 Points (TW)": {
+        "Seagm": 50.13
+      },
+      "MyCard 10,000 Points (TW)": {
+        "Seagm": "N/A"
+      },
+      "MyCard 5,000 Points (TW)": {
+        "Seagm": "N/A"
+      },
+      "MyCard 3,290 Points (TW)": {
+        "Seagm": "N/A"
+      },
+      "MyCard 3,000 Points (TW)": {
+        "Seagm": "N/A"
+      },
+      "MyCard 2500 Points (TW)": {
+        "Seagm": "N/A"
+      },
+      "MyCard 2,000 Points (TW)": {
+        "Seagm": "N/A"
+      },
+      "MyCard 1690 Points (TW)": {
+        "Seagm": "N/A"
+      },
+      "MyCard 1490 Points (TW)": {
+        "Seagm": "N/A"
+      },
+      "MyCard 1150 Points (TW)": {
+        "Seagm": "N/A"
+      },
+      "MyCard 1,000 Points (TW)": {
+        "Seagm": "N/A"
+      },
+      "MyCard 750 Points (TW)": {
+        "Seagm": "N/A"
+      },
+      "MyCard 500 Points (TW)": {
+        "Seagm": "N/A"
+      },
+      "MyCard 400 Points (TW)": {
+        "Seagm": "N/A"
+      },
+      "MyCard 350 Points (TW)": {
+        "Seagm": "N/A"
+      },
+      "MyCard 170 Points (TW)": {
+        "Seagm": "N/A"
+      },
+      "MyCard 150 Points (TW)": {
+        "Seagm": "N/A"
+      },
+      "MyCard 90 Points (TW)": {
+        "Seagm": "N/A"
+      },
+      "MyCard 30 Points (TW)": {
+        "Seagm": "N/A"
       }
     },
     "Spotify": {
