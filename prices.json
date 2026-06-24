@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T04:14:25Z",
+  "generated_at": "2026-06-24T09:45:30Z",
   "prices": {
     "Genshin Impact": {
       "Genshin Impact 3,280 + 600 Crystals (Global)": {
@@ -9,7 +9,7 @@
       },
       "Genshin Impact 1,980 + 260 Crystals (Global)": {
         "OG": 8.66,
-        "G2G": 3.53,
+        "G2G": 8.66,
         "ItemkuEN": "N/A"
       },
       "Genshin Impact 9,760 + 2,200 Crystals (Global)": {
@@ -30,8 +30,8 @@
     },
     "Wuthering Waves": {
       "60 Lunites": {
-        "OG": 3.53,
-        "G2G": 8.66,
+        "OG": 23.62,
+        "G2G": 3.53,
         "ItemkuEN": 0.85
       },
       "300 + 30 Lunites": {
@@ -46,7 +46,7 @@
       },
       "1,980 + 260 Lunites": {
         "OG": 3.53,
-        "G2G": 8.66,
+        "G2G": 3.53,
         "ItemkuEN": 1.0
       },
       "3,280 + 600 Lunites": {
@@ -103,14 +103,14 @@
       },
       "Rewarble EUR20 Gift Cards": {
         "OG": "N/A",
-        "G2G": 3.53,
+        "G2G": "N/A",
         "Seagm": 21.19,
         "Unipin": "N/A",
         "ItemkuEN": 1.05
       },
       "Rewarble EUR10 Gift Cards": {
         "OG": "N/A",
-        "G2G": 3.53,
+        "G2G": "N/A",
         "Seagm": 10.59,
         "Unipin": 9.94,
         "ItemkuEN": 1.05
@@ -189,22 +189,22 @@
       "CashtoCode eVouchers USD 100 (Global)": {
         "OG": "N/A",
         "Seagm": 104.77,
-        "ItemkuEN": 1.0
+        "ItemkuEN": "N/A"
       },
       "CashtoCode eVouchers USD 50 (Global)": {
         "OG": "N/A",
         "Seagm": 52.39,
-        "ItemkuEN": 1.0
+        "ItemkuEN": "N/A"
       },
       "CashtoCode eVouchers USD 25 (Global)": {
         "OG": "N/A",
         "Seagm": 26.2,
-        "ItemkuEN": 1.0
+        "ItemkuEN": "N/A"
       },
       "CashtoCode eVouchers JPY24,000 (JP)": {
         "OG": "N/A",
         "Seagm": "N/A",
-        "ItemkuEN": 1.0
+        "ItemkuEN": "N/A"
       },
       "CashtoCode eVouchers JPY12,000 (JP)": {
         "OG": "N/A",
@@ -365,7 +365,7 @@
         "OG": 3.53
       },
       "Gift Me Crypto USD100 (US)": {
-        "OG": 3.53
+        "OG": "N/A"
       },
       "Gift Me Crypto USD50 (US)": {
         "OG": "N/A"
@@ -399,7 +399,7 @@
     },
     "RBL": {
       "Roblox Game Card USD 50 (US)": {
-        "Kinguin": 67.35,
+        "Kinguin": 67.43,
         "Unipin": 49.68,
         "ItemkuEN": 1.0
       },
@@ -629,7 +629,7 @@
         "Unipin": 248.4
       },
       "PlayStation™Store USD200 Gift Cards (US)": {
-        "Seagm": "N/A",
+        "Seagm": 185.0,
         "Codashop": "N/A",
         "Unipin": 198.72
       },
@@ -674,7 +674,7 @@
         "Unipin": "N/A"
       },
       "PlayStation™Store USD 200 Gift Cards (AE)": {
-        "Seagm": "N/A",
+        "Seagm": 185.0,
         "Codashop": "N/A",
         "Unipin": 198.72
       },
@@ -689,7 +689,7 @@
         "Unipin": 49.68
       },
       "PlayStation™Store MYR 200 Gift Cards (MY)": {
-        "Seagm": "N/A",
+        "Seagm": 185.0,
         "Codashop": "N/A",
         "Unipin": 198.72
       },
@@ -709,7 +709,7 @@
         "Unipin": 248.4
       },
       "PlayStation™Store EUR 200 Gift Cards (DE)": {
-        "Seagm": "N/A",
+        "Seagm": 185.0,
         "Codashop": "N/A",
         "Unipin": 198.72
       },
@@ -719,7 +719,7 @@
         "Unipin": 149.04
       },
       "PlayStation™Store USD 200 Gift Cards (QA)": {
-        "Seagm": "N/A",
+        "Seagm": 185.0,
         "Codashop": "N/A",
         "Unipin": 198.72
       },
@@ -763,65 +763,6 @@
         "Seagm": "N/A"
       },
       "Amazon Gift Card USD 15 (US)": {
-        "Seagm": "N/A"
-      }
-    },
-    "MyCard": {
-      "MyCard 50 Points (TW)": {
-        "Seagm": 50.01
-      },
-      "MyCard 10,000 Points (TW)": {
-        "Seagm": "N/A"
-      },
-      "MyCard 5,000 Points (TW)": {
-        "Seagm": "N/A"
-      },
-      "MyCard 3,290 Points (TW)": {
-        "Seagm": "N/A"
-      },
-      "MyCard 3,000 Points (TW)": {
-        "Seagm": "N/A"
-      },
-      "MyCard 2500 Points (TW)": {
-        "Seagm": "N/A"
-      },
-      "MyCard 2,000 Points (TW)": {
-        "Seagm": "N/A"
-      },
-      "MyCard 1690 Points (TW)": {
-        "Seagm": "N/A"
-      },
-      "MyCard 1490 Points (TW)": {
-        "Seagm": "N/A"
-      },
-      "MyCard 1150 Points (TW)": {
-        "Seagm": "N/A"
-      },
-      "MyCard 1,000 Points (TW)": {
-        "Seagm": "N/A"
-      },
-      "MyCard 750 Points (TW)": {
-        "Seagm": "N/A"
-      },
-      "MyCard 500 Points (TW)": {
-        "Seagm": "N/A"
-      },
-      "MyCard 400 Points (TW)": {
-        "Seagm": "N/A"
-      },
-      "MyCard 350 Points (TW)": {
-        "Seagm": "N/A"
-      },
-      "MyCard 170 Points (TW)": {
-        "Seagm": "N/A"
-      },
-      "MyCard 150 Points (TW)": {
-        "Seagm": "N/A"
-      },
-      "MyCard 90 Points (TW)": {
-        "Seagm": "N/A"
-      },
-      "MyCard 30 Points (TW)": {
         "Seagm": "N/A"
       }
     },
