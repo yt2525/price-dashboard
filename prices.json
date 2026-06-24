@@ -1,15 +1,10 @@
 {
-  "generated_at": "2026-06-24T09:45:30Z",
+  "generated_at": "2026-06-24T14:48:25Z",
   "prices": {
     "Genshin Impact": {
-      "Genshin Impact 3,280 + 600 Crystals (Global)": {
-        "OG": 3.59,
-        "G2G": 3.53,
-        "ItemkuEN": 16.25
-      },
       "Genshin Impact 1,980 + 260 Crystals (Global)": {
         "OG": 8.66,
-        "G2G": 8.66,
+        "G2G": 3.53,
         "ItemkuEN": "N/A"
       },
       "Genshin Impact 9,760 + 2,200 Crystals (Global)": {
@@ -22,6 +17,11 @@
         "G2G": "N/A",
         "ItemkuEN": "N/A"
       },
+      "Genshin Impact 3,280 + 600 Crystals (Global)": {
+        "OG": "N/A",
+        "G2G": 3.53,
+        "ItemkuEN": 16.25
+      },
       "Genshin Impact All Pack Genesis Crystals (Global)": {
         "OG": "N/A",
         "G2G": "N/A",
@@ -30,12 +30,12 @@
     },
     "Wuthering Waves": {
       "60 Lunites": {
-        "OG": 23.62,
+        "OG": 3.53,
         "G2G": 3.53,
         "ItemkuEN": 0.85
       },
       "300 + 30 Lunites": {
-        "OG": 3.53,
+        "OG": 23.52,
         "G2G": 3.53,
         "ItemkuEN": 1.0
       },
@@ -96,7 +96,7 @@
       },
       "Rewarble EUR25 Gift Cards": {
         "OG": "N/A",
-        "G2G": 3.53,
+        "G2G": "N/A",
         "Seagm": 26.48,
         "Unipin": 24.84,
         "ItemkuEN": 1.05
@@ -189,17 +189,17 @@
       "CashtoCode eVouchers USD 100 (Global)": {
         "OG": "N/A",
         "Seagm": 104.77,
-        "ItemkuEN": "N/A"
+        "ItemkuEN": 1.0
       },
       "CashtoCode eVouchers USD 50 (Global)": {
         "OG": "N/A",
         "Seagm": 52.39,
-        "ItemkuEN": "N/A"
+        "ItemkuEN": 1.0
       },
       "CashtoCode eVouchers USD 25 (Global)": {
         "OG": "N/A",
         "Seagm": 26.2,
-        "ItemkuEN": "N/A"
+        "ItemkuEN": 1.0
       },
       "CashtoCode eVouchers JPY24,000 (JP)": {
         "OG": "N/A",
@@ -399,17 +399,17 @@
     },
     "RBL": {
       "Roblox Game Card USD 50 (US)": {
-        "Kinguin": 67.43,
+        "Kinguin": 67.12,
         "Unipin": 49.68,
         "ItemkuEN": 1.0
       },
       "Roblox Game Card USD 25 (US)": {
-        "Kinguin": 23.74,
+        "Kinguin": 23.62,
         "Unipin": 24.84,
         "ItemkuEN": 1.0
       },
       "Roblox Game Card USD 10 (US)": {
-        "Kinguin": 9.96,
+        "Kinguin": 9.94,
         "Unipin": 9.94,
         "ItemkuEN": 1.0
       },
