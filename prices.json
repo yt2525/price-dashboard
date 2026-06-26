@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-25T20:13:34Z",
+  "generated_at": "2026-06-26T04:21:01Z",
   "prices": {
     "Genshin Impact": {
       "Genshin Impact 1,980 + 260 Crystals (Global)": {
-        "OG": 3.53,
+        "OG": 8.66,
         "G2G": 8.66,
         "ItemkuEN": "N/A"
       },
@@ -31,7 +31,7 @@
     "Wuthering Waves": {
       "60 Lunites": {
         "OG": 3.53,
-        "G2G": 3.53,
+        "G2G": 8.66,
         "ItemkuEN": 0.86
       },
       "300 + 30 Lunites": {
@@ -162,59 +162,49 @@
         "G2G": "N/A",
         "Seagm": 10.59,
         "Unipin": 9.94,
-        "ItemkuEN": 9.7
+        "ItemkuEN": 9.74
       }
     },
     "CashtoCode": {
       "CashtoCode eVouchers AUD200 (AU)": {
         "OG": 3.53,
-        "Seagm": 209.53,
-        "ItemkuEN": "N/A"
+        "Seagm": 209.53
       },
       "CashtoCode eVouchers AUD100 (AU)": {
         "OG": 3.53,
-        "Seagm": 104.77,
-        "ItemkuEN": "N/A"
+        "Seagm": 104.77
       },
       "CashtoCode eVouchers AUD50 (AU)": {
         "OG": 3.53,
-        "Seagm": 52.39,
-        "ItemkuEN": "N/A"
+        "Seagm": 52.39
       },
       "CashtoCode eVouchers USD 200 (Global)": {
         "OG": "N/A",
-        "Seagm": 209.53,
-        "ItemkuEN": 1.0
+        "Seagm": 209.53
       },
       "CashtoCode eVouchers USD 100 (Global)": {
         "OG": "N/A",
-        "Seagm": 104.77,
-        "ItemkuEN": 1.0
+        "Seagm": 104.77
       },
       "CashtoCode eVouchers USD 50 (Global)": {
         "OG": "N/A",
-        "Seagm": 52.39,
-        "ItemkuEN": 1.0
+        "Seagm": 52.39
       },
       "CashtoCode eVouchers USD 25 (Global)": {
         "OG": "N/A",
-        "Seagm": 26.2,
-        "ItemkuEN": 1.0
+        "Seagm": 26.2
       },
       "CashtoCode eVouchers JPY24,000 (JP)": {
         "OG": "N/A",
-        "Seagm": "N/A",
-        "ItemkuEN": 1.0
+        "Seagm": "N/A"
       },
       "CashtoCode eVouchers JPY12,000 (JP)": {
         "OG": "N/A",
-        "Seagm": "N/A",
-        "ItemkuEN": 1.0
+        "Seagm": "N/A"
       },
       "CashtoCode eVouchers JPY6,000 (JP)": {
         "OG": "N/A",
-        "Seagm": "N/A",
-        "ItemkuEN": "N/A"
+        "Seagm": "N/A"
       }
     },
     "GASH": {
@@ -356,13 +346,13 @@
         "OG": 3.53
       },
       "Gift Me Crypto EUR20 (EU)": {
-        "OG": "N/A"
+        "OG": 3.53
       },
       "Gift Me Crypto EUR10 (EU)": {
-        "OG": "N/A"
+        "OG": 3.53
       },
       "Gift Me Crypto USD200 (US)": {
-        "OG": "N/A"
+        "OG": 3.53
       },
       "Gift Me Crypto USD100 (US)": {
         "OG": "N/A"
@@ -399,7 +389,7 @@
     },
     "RBL": {
       "Roblox Game Card USD 50 (US)": {
-        "Kinguin": 66.64,
+        "Kinguin": 66.7,
         "Unipin": 49.68,
         "ItemkuEN": 1.0
       },
@@ -409,7 +399,7 @@
         "ItemkuEN": 1.0
       },
       "Roblox Game Card USD 10 (US)": {
-        "Kinguin": 9.65,
+        "Kinguin": 9.64,
         "Unipin": 9.94,
         "ItemkuEN": 1.0
       },
@@ -624,7 +614,7 @@
     },
     "PlayStation": {
       "PlayStation™Store USD250 Gift Cards (US)": {
-        "Seagm": 231.25,
+        "Seagm": "N/A",
         "Codashop": "N/A",
         "Unipin": 248.4
       },
@@ -639,7 +629,7 @@
         "Unipin": 149.04
       },
       "PlayStation™Store USD100 Gift Cards (US)": {
-        "Seagm": 91.5,
+        "Seagm": 91.0,
         "Codashop": 100.0,
         "Unipin": 99.36
       },
@@ -659,7 +649,7 @@
         "Unipin": 24.84
       },
       "PlayStation™Store GBP 100 Gift Cards (UK)": {
-        "Seagm": 91.5,
+        "Seagm": 91.0,
         "Codashop": 100.0,
         "Unipin": 99.36
       },
@@ -679,7 +669,7 @@
         "Unipin": 198.72
       },
       "PlayStation™Store USD 100 Gift Cards (AE)": {
-        "Seagm": 91.5,
+        "Seagm": 91.0,
         "Codashop": 100.0,
         "Unipin": 99.36
       },
@@ -694,7 +684,7 @@
         "Unipin": 198.72
       },
       "PlayStation™Store MYR 100 Gift Cards (MY)": {
-        "Seagm": 91.5,
+        "Seagm": 91.0,
         "Codashop": 100.0,
         "Unipin": 99.36
       },
@@ -704,7 +694,7 @@
         "Unipin": 49.68
       },
       "PlayStation™Store EUR 250 Gift Cards (DE)": {
-        "Seagm": 231.25,
+        "Seagm": "N/A",
         "Codashop": "N/A",
         "Unipin": 248.4
       },
@@ -724,7 +714,7 @@
         "Unipin": 198.72
       },
       "PlayStation™Store USD 100 Gift Cards (QA)": {
-        "Seagm": 91.5,
+        "Seagm": 91.0,
         "Codashop": 100.0,
         "Unipin": 99.36
       },
