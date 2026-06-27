@@ -1,15 +1,10 @@
 {
-  "generated_at": "2026-06-27T04:07:33Z",
+  "generated_at": "2026-06-27T08:46:59Z",
   "prices": {
     "Genshin Impact": {
-      "Genshin Impact 3,280 + 600 Crystals (Global)": {
-        "OG": 8.66,
-        "G2G": 3.53,
-        "ItemkuEN": 16.25
-      },
       "Genshin Impact 1,980 + 260 Crystals (Global)": {
         "OG": 3.53,
-        "G2G": 3.53,
+        "G2G": 8.66,
         "ItemkuEN": "N/A"
       },
       "Genshin Impact 9,760 + 2,200 Crystals (Global)": {
@@ -22,6 +17,11 @@
         "G2G": "N/A",
         "ItemkuEN": "N/A"
       },
+      "Genshin Impact 3,280 + 600 Crystals (Global)": {
+        "OG": "N/A",
+        "G2G": 3.53,
+        "ItemkuEN": 16.25
+      },
       "Genshin Impact All Pack Genesis Crystals (Global)": {
         "OG": "N/A",
         "G2G": "N/A",
@@ -31,7 +31,7 @@
     "Wuthering Waves": {
       "60 Lunites": {
         "OG": 3.53,
-        "G2G": 3.53,
+        "G2G": 8.66,
         "ItemkuEN": 0.86
       },
       "300 + 30 Lunites": {
@@ -194,12 +194,12 @@
       "CashtoCode eVouchers USD 50 (Global)": {
         "OG": "N/A",
         "Seagm": 52.39,
-        "ItemkuEN": 1.0
+        "ItemkuEN": "N/A"
       },
       "CashtoCode eVouchers USD 25 (Global)": {
         "OG": "N/A",
         "Seagm": 26.2,
-        "ItemkuEN": 1.0
+        "ItemkuEN": "N/A"
       },
       "CashtoCode eVouchers JPY24,000 (JP)": {
         "OG": "N/A",
@@ -490,13 +490,13 @@
         "OG": 3.53
       },
       "Gift Me Crypto EUR20 (EU)": {
-        "OG": "N/A"
+        "OG": 3.53
       },
       "Gift Me Crypto EUR10 (EU)": {
-        "OG": "N/A"
+        "OG": 3.53
       },
       "Gift Me Crypto USD200 (US)": {
-        "OG": "N/A"
+        "OG": 3.53
       },
       "Gift Me Crypto USD100 (US)": {
         "OG": "N/A"
@@ -543,7 +543,7 @@
         "ItemkuEN": 1.0
       },
       "Roblox Game Card USD 10 (US)": {
-        "Kinguin": 9.79,
+        "Kinguin": 9.7,
         "Unipin": 9.94,
         "ItemkuEN": 1.0
       },
