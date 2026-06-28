@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-28T14:05:46Z",
+  "generated_at": "2026-06-28T19:40:59Z",
   "prices": {
     "Genshin Impact": {
       "Genshin Impact 3,280 + 600 Crystals (Global)": {
-        "OG": 3.53,
+        "OG": 3.59,
         "G2G": 3.53,
         "ItemkuEN": 16.25
       },
@@ -28,11 +28,37 @@
         "ItemkuEN": "N/A"
       }
     },
+    "Valorant": {
+      "Valorant 475 Points (Global)": {
+        "OG": 23.48,
+        "G2G": 3.53
+      },
+      "Valorant 11,000 Points  (Global)": {
+        "OG": "N/A",
+        "G2G": "N/A"
+      },
+      "Valorant 5,350 Points (Global)": {
+        "OG": "N/A",
+        "G2G": "N/A"
+      },
+      "Valorant 3,650 Points (Global)": {
+        "OG": "N/A",
+        "G2G": "N/A"
+      },
+      "Valorant 2,050 Points (Global)": {
+        "OG": "N/A",
+        "G2G": "N/A"
+      },
+      "Valorant 1,000 Points (Global)": {
+        "OG": "N/A",
+        "G2G": "N/A"
+      }
+    },
     "Wuthering Waves": {
       "60 Lunites": {
         "OG": 3.53,
-        "G2G": 8.66,
-        "ItemkuEN": 1.0
+        "G2G": 3.53,
+        "ItemkuEN": 0.86
       },
       "300 + 30 Lunites": {
         "OG": 3.53,
@@ -46,7 +72,7 @@
       },
       "1,980 + 260 Lunites": {
         "OG": 3.53,
-        "G2G": 3.53,
+        "G2G": 8.66,
         "ItemkuEN": 1.0
       },
       "3,280 + 600 Lunites": {
@@ -71,49 +97,49 @@
         "G2G": 3.53,
         "Seagm": 105.93,
         "Unipin": "N/A",
-        "ItemkuEN": "N/A"
+        "ItemkuEN": 1.05
       },
       "Rewarble EUR60 Gift Cards": {
         "OG": "N/A",
         "G2G": 3.53,
         "Seagm": 63.56,
         "Unipin": "N/A",
-        "ItemkuEN": "N/A"
+        "ItemkuEN": 1.05
       },
       "Rewarble EUR50 Gift Cards": {
         "OG": "N/A",
         "G2G": 3.53,
         "Seagm": 52.97,
         "Unipin": 49.68,
-        "ItemkuEN": "N/A"
+        "ItemkuEN": 1.05
       },
       "Rewarble EUR30 Gift Cards": {
         "OG": "N/A",
         "G2G": 3.53,
         "Seagm": 31.78,
         "Unipin": "N/A",
-        "ItemkuEN": "N/A"
+        "ItemkuEN": 1.05
       },
       "Rewarble EUR25 Gift Cards": {
         "OG": "N/A",
-        "G2G": 3.53,
+        "G2G": "N/A",
         "Seagm": 26.48,
         "Unipin": 24.84,
-        "ItemkuEN": "N/A"
+        "ItemkuEN": 1.05
       },
       "Rewarble EUR20 Gift Cards": {
         "OG": "N/A",
-        "G2G": 3.53,
+        "G2G": "N/A",
         "Seagm": 21.19,
         "Unipin": "N/A",
-        "ItemkuEN": "N/A"
+        "ItemkuEN": 1.05
       },
       "Rewarble EUR10 Gift Cards": {
         "OG": "N/A",
         "G2G": "N/A",
         "Seagm": 10.59,
         "Unipin": 9.94,
-        "ItemkuEN": "N/A"
+        "ItemkuEN": 1.05
       },
       "Rewarble Gift Cards USD 100 (Global)": {
         "OG": "N/A",
@@ -141,70 +167,80 @@
         "G2G": "N/A",
         "Seagm": 31.78,
         "Unipin": "N/A",
-        "ItemkuEN": "N/A"
+        "ItemkuEN": 1.0
       },
       "Rewarble Gift Cards USD 25 (Global)": {
         "OG": "N/A",
         "G2G": "N/A",
         "Seagm": 26.48,
         "Unipin": 24.84,
-        "ItemkuEN": "N/A"
+        "ItemkuEN": 1.0
       },
       "Rewarble Gift Cards USD 20 (Global)": {
         "OG": "N/A",
         "G2G": "N/A",
         "Seagm": 21.19,
         "Unipin": "N/A",
-        "ItemkuEN": "N/A"
+        "ItemkuEN": 1.0
       },
       "Rewarble Gift Cards USD 10 (Global)": {
         "OG": "N/A",
         "G2G": "N/A",
         "Seagm": 10.59,
         "Unipin": 9.94,
-        "ItemkuEN": "N/A"
+        "ItemkuEN": 1.0
       }
     },
     "CashtoCode": {
       "CashtoCode eVouchers AUD200 (AU)": {
         "OG": 3.53,
-        "Seagm": 209.53
+        "Seagm": 209.53,
+        "ItemkuEN": "N/A"
       },
       "CashtoCode eVouchers AUD100 (AU)": {
         "OG": 3.53,
-        "Seagm": 104.77
+        "Seagm": 104.77,
+        "ItemkuEN": "N/A"
       },
       "CashtoCode eVouchers AUD50 (AU)": {
         "OG": 3.53,
-        "Seagm": 52.39
+        "Seagm": 52.39,
+        "ItemkuEN": "N/A"
       },
       "CashtoCode eVouchers USD 200 (Global)": {
         "OG": "N/A",
-        "Seagm": 209.53
+        "Seagm": 209.53,
+        "ItemkuEN": 1.0
       },
       "CashtoCode eVouchers USD 100 (Global)": {
         "OG": "N/A",
-        "Seagm": 104.77
+        "Seagm": 104.77,
+        "ItemkuEN": 1.0
       },
       "CashtoCode eVouchers USD 50 (Global)": {
         "OG": "N/A",
-        "Seagm": 52.39
+        "Seagm": 52.39,
+        "ItemkuEN": 1.0
       },
       "CashtoCode eVouchers USD 25 (Global)": {
         "OG": "N/A",
-        "Seagm": 26.2
+        "Seagm": 26.2,
+        "ItemkuEN": "N/A"
       },
       "CashtoCode eVouchers JPY24,000 (JP)": {
         "OG": "N/A",
-        "Seagm": "N/A"
+        "Seagm": "N/A",
+        "ItemkuEN": "N/A"
       },
       "CashtoCode eVouchers JPY12,000 (JP)": {
         "OG": "N/A",
-        "Seagm": "N/A"
+        "Seagm": "N/A",
+        "ItemkuEN": "N/A"
       },
       "CashtoCode eVouchers JPY6,000 (JP)": {
         "OG": "N/A",
-        "Seagm": "N/A"
+        "Seagm": "N/A",
+        "ItemkuEN": "N/A"
       }
     },
     "GASH": {
@@ -349,7 +385,7 @@
         "OG": 3.53
       },
       "Gift Me Crypto EUR10 (EU)": {
-        "OG": 3.53
+        "OG": "N/A"
       },
       "Gift Me Crypto USD200 (US)": {
         "OG": "N/A"
@@ -365,26 +401,6 @@
       },
       "Gift Me Crypto USD10 (US)": {
         "OG": "N/A"
-      }
-    },
-    "Valorant": {
-      "Valorant 475 Points (Global)": {
-        "G2G": 3.53
-      },
-      "Valorant 11,000 Points  (Global)": {
-        "G2G": "N/A"
-      },
-      "Valorant 5,350 Points (Global)": {
-        "G2G": "N/A"
-      },
-      "Valorant 3,650 Points (Global)": {
-        "G2G": "N/A"
-      },
-      "Valorant 2,050 Points (Global)": {
-        "G2G": "N/A"
-      },
-      "Valorant 1,000 Points (Global)": {
-        "G2G": "N/A"
       }
     },
     "RBL": {
@@ -726,7 +742,7 @@
     },
     "Amazon": {
       "Amazon Gift Card USD 25 (US)": {
-        "Seagm": 24.75
+        "Seagm": 25.25
       },
       "Amazon Gift Card USD 20 (US)": {
         "Seagm": 20.1
@@ -763,7 +779,7 @@
       },
       "Spotify Gift Card USD 99": {
         "LapakGaming": "N/A",
-        "ItemkuEN": "N/A"
+        "ItemkuEN": 1.0
       },
       "Spotify Gift Card USD 60": {
         "LapakGaming": "N/A",
